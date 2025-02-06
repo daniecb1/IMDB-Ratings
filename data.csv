@@ -1,0 +1,1001 @@
+,Title,Runtime.x,Rating.x,Director.x,Lead.x,Votes.x,Budget,Sequel,Rounded,Action,Adventure,Comedy,Drama,War,Music,Animation,History,Horror,Mystery,Thriller,Fantasy,Biography,Crime,Sci.Fi,Family,Sport,Romance,Western,Musical
+1,Babylon,189,7.3,Damien Chazelle,Brad Pitt,216,78000000,0,7,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2,Black Panther: Wakanda Forever,161,6.8,Ryan Coogler,Letitia Wright,71,250000000,1,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Avatar: The Way of Water,192,7.8,James Cameron,Sam Worthington,96,350000000,1,8,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,The Menu,107,7.2,Mark Mylod,Ralph Fiennes,81,35000000,0,7,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5,The Banshees of Inisherin,114,7.8,Martin McDonagh,Colin Farrell,40,20000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Everything Everywhere All at Once,139,8,Dan Kwan,Michelle Yeoh,106,25000000,0,8,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Puss in Boots: The Last Wish,102,7.9,Joel Crawford,Antonio Banderas,230,90000000,1,8,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,White Noise,136,5.7,Noah Baumbach,Adam Driver,104,80000000,0,6,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,The Whale,117,8,Darren Aronofsky,Brendan Fraser,98,10000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,The Fabelmans,151,7.6,Steven Spielberg,Michelle Williams,174,40000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Tár,158,7.5,Todd Field,Cate Blanchett,135,35000000,0,8,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,M3GAN,102,6.4,Gerard Johnstone,Allison Williams,200,12000000,0,6,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+13,Bullet Train,127,7.3,David Leitch,Brad Pitt,93,85900000,0,7,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,Triangle of Sadness,147,7.4,Ruben Östlund,Charlbi Dean,235,10000000,0,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Top Gun: Maverick,130,8.3,Joseph Kosinski,Tom Cruise,163,170000000,1,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Glass Onion,139,7.2,Rian Johnson,Daniel Craig,110,40000000,1,7,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+17,Shotgun Wedding,100,5.4,Jason Moore,Jennifer Lopez,78,68000000,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,A Man Called Otto,126,7.6,Marc Forster,Tom Hanks,53,50000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,All Quiet on the Western Front,148,7.8,Edward Berger,Felix Kammerer,43,20000000,0,8,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Aftersun,102,7.7,Charlotte Wells,Paul Mescal,122,15000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,X,105,6.6,Ti West,Mia Goth,25,1000000,0,7,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+22,The Son,123,6.1,Florian Zeller,Vanessa Kirby,94,6000000,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Magic Mike,110,6.1,Steven Soderbergh,Channing Tatum,41,7000000,0,6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,The Pale Blue Eye,128,6.6,Scott Cooper,Christian Bale,236,72000000,0,7,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+25,Ant-Man,117,7.3,Peyton Reed,Paul Rudd,208,130000000,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+26,Harry Potter and the Sorcerer's Stone,152,7.6,Chris Columbus,Daniel Radcliffe,224,125000000,0,8,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+27,Women Talking,104,7.5,Sarah Polley,Rooney Mara,152,134900000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Empire of Light,115,6.6,Sam Mendes,Olivia Colman,226,30000000,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29,The Batman,176,7.8,Matt Reeves,Robert Pattinson,206,200000000,1,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Elvis,159,7.3,Baz Luhrmann,Tom Hanks,59,85000000,0,7,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+31,Ant-Man and the Wasp,118,7,Peyton Reed,Paul Rudd,136,200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,The Woman King,135,6.7,Gina Prince-Bythewood,Viola Davis,154,50000000,0,7,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+33,Don't Worry Darling,123,6.2,Olivia Wilde,Florence Pugh,22,35000000,0,6,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34,The VelociPastor,75,5,Brendan Steere,Greg Cohan,184,36000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Amsterdam,134,6.1,David O. Russell,Christian Bale,203,80000000,0,6,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+36,Avatar,162,7.9,James Cameron,Sam Worthington,9,237000000,0,8,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+37,Interstellar,169,8.6,Christopher Nolan,Matthew McConaughey,19,165000000,0,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Once Upon a Time in Hollywood,161,7.6,Quentin Tarantino,Leonardo DiCaprio,219,96000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Where the Crawdads Sing,125,7.2,Olivia Newman,Daisy Edgar-Jones,232,24000000,0,7,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+40,Barbarian,102,7,Zach Cregger,Georgina Campbell,34,4500000,0,7,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+41,Black Adam,125,6.4,Jaume Collet-Serra,Dwayne Johnson,76,210000000,1,6,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+42,Legally Blonde,96,6.4,Robert Luketic,Reese Witherspoon,75,18000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Knives Out,130,7.9,Rian Johnson,Daniel Craig,215,40000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+44,Love,135,6.1,Gaspar Noé,Aomi Muyock,186,3000000,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+45,Black Panther,134,7.3,Ryan Coogler,Chadwick Boseman,223,200000000,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+46,"Lyle, Lyle, Crocodile",106,6.1,Josh Gordon,Javier Bardem,227,50000000,0,6,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Thor: Love and Thunder,118,6.3,Taika Waititi,Chris Hemsworth,112,250000000,1,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Magic Mike XXL,115,5.6,Gregory Jacobs,Channing Tatum,173,14800000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,Valentine's Day,125,5.7,Garry Marshall,Julia Roberts,28,52000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,Jurassic World: Dominion,147,5.6,Colin Trevorrow,Chris Pratt,54,165000000,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+51,Dune,155,8,Denis Villeneuve,Timothée Chalamet,201,165000000,0,8,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Smile,115,6.6,Parker Finn,Sosie Bacon,23,17000000,0,7,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+53,Whitney Houston: I Wanna Dance with Somebody,144,6.7,Kasi Lemmons,Naomi Ackie,241,45000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,Pearl,103,7,Ti West,Mia Goth,144,NA,0,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+55,Guillermo del Toro's Pinocchio,117,7.6,Guillermo del Toro,Ewan McGregor,231,35000000,0,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+56,The Lord of the Rings: The Fellowship of the Ring,178,8.8,Peter Jackson,Elijah Wood,20,93000000,0,9,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Avengers: Endgame,181,8.4,Anthony Russo,Robert Downey Jr.,6,356000000,1,8,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,"Alice, Darling",89,5.4,Mary Nighy,Anna Kendrick,95,NA,0,5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+59,Bones and All,131,6.9,Luca Guadagnino,Timothée Chalamet,111,16000000,0,7,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+60,Skinamarink,100,5.1,Kyle Edward Ball,Lucas Paul,213,15000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,The Northman,137,7.1,Robert Eggers,Alexander Skarsgård,72,60000000,0,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,F9: The Fast Saga,143,5.2,Justin Lin,Vin Diesel,36,200000000,1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+63,Fall,107,6.4,Scott Mann,Grace Caroline Currey,172,3000000,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64,Spider-Man: No Way Home,148,8.2,Jon Watts,Tom Holland,221,200000000,1,8,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+65,The Notebook,123,7.8,Nick Cassavetes,Gena Rowlands,175,29000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,Nope,130,6.9,Jordan Peele,Daniel Kaluuya,64,68000000,0,7,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+67,The Unbearable Weight of Massive Talent,107,7,Tom Gormican,Nicolas Cage,246,30000000,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+68,The Wolf of Wall Street,180,8.2,Martin Scorsese,Leonardo DiCaprio,13,100000000,0,8,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+69,Joker,122,8.4,Todd Phillips,Joaquin Phoenix,8,55000000,0,8,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+70,Close,104,7.9,Lukas Dhont,Eden Dambrine,21,NA,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,The Departed,151,8.5,Martin Scorsese,Leonardo DiCaprio,11,90000000,1,9,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+72,To Leslie,119,7.1,Michael Morris,Andrea Riseborough,153,NA,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Devotion,139,6.6,J.D. Dillard,Jonathan Majors,46,90000000,0,7,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,John Wick,101,7.4,Chad Stahelski,Keanu Reeves,197,20000000,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+75,Roald Dahl's Matilda the Musical,117,7.1,Matthew Warchus,Alisha Weir,62,NA,1,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+76,Ticket to Paradise,104,6.2,Ol Parker,George Clooney,134,60000000,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+77,The Hunger Games,142,7.2,Gary Ross,Jennifer Lawrence,245,78000000,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+78,Black Swan,108,8,Darren Aronofsky,Natalie Portman,222,13000000,0,8,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+79,Whiplash,106,8.5,Damien Chazelle,Miles Teller,237,3300000,0,9,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Hereditary,127,7.3,Ari Aster,Toni Collette,103,10000000,0,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+81,Scream,114,6.3,Matt Bettinelli-Olpin,Melissa Barrera,27,24000000,0,6,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+82,The Help,146,8.1,Tate Taylor,Viola Davis,147,25000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,RRR,187,7.9,S.S. Rajamouli,N.T. Rama Rao Jr.,35,42000000,0,8,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Viking Wolf,97,5.1,Stig Svendsen,Liv Mjönes,127,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,Nobody,92,7.4,Ilya Naishuller,Bob Odenkirk,85,16000000,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+86,The Black Phone,103,6.9,Scott Derrickson,Mason Thames,49,18000000,0,7,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+87,The Gray Man,122,6.5,Anthony Russo,Ryan Gosling,65,200000000,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+88,Rosaline,95,6.4,Karen Maine,Kaitlyn Dever,214,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,Midsommar,148,7.1,Ari Aster,Florence Pugh,108,9000000,0,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+90,Infinite,106,5.4,Antoine Fuqua,Mark Wahlberg,162,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,Edge of Tomorrow,113,7.9,Doug Liman,Tom Cruise,210,178000000,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+92,Vengeance,107,6.8,B.J. Novak,B.J. Novak,79,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,Harry Potter and the Goblet of Fire,157,7.7,Mike Newell,Daniel Radcliffe,193,150000000,1,8,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+94,Blonde,167,5.5,Andrew Dominik,Ana de Armas,185,22000000,0,6,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+95,Parasite,132,8.5,Bong Joon Ho,Song Kang-ho,234,11400000,0,9,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+96,Decision to Leave,139,7.3,Park Chan-wook,Park Hae-il,105,10000000,0,7,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+97,The Gentlemen,113,7.8,Guy Ritchie,Matthew McConaughey,113,22000000,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+98,Irreversible,97,7.3,Gaspar Noé,Monica Bellucci,37,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,Blade Runner 2049,164,8,Denis Villeneuve,Harrison Ford,177,150000000,1,8,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+100,Don't Look Up,138,7.2,Adam McKay,Leonardo DiCaprio,166,75000000,0,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+101,La La Land,128,8,Damien Chazelle,Ryan Gosling,187,30000000,0,8,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Fifty Shades of Grey,125,4.2,Sam Taylor-Johnson,Dakota Johnson,102,40000000,0,4,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+103,Inglourious Basterds,153,8.3,Quentin Tarantino,Brad Pitt,14,70000000,0,8,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,Django Unchained,165,8.4,Quentin Tarantino,Jamie Foxx,15,100000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+105,Eternal Sunshine of the Spotless Mind,108,8.3,Michel Gondry,Jim Carrey,2,20000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+106,Harry Potter and the Prisoner of Azkaban,142,7.9,Alfonso Cuarón,Daniel Radcliffe,195,130000000,1,8,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+107,Living,102,7.5,Oliver Hermanus,Bill Nighy,128,NA,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,2 Guns,109,6.7,Baltasar Kormákur,Denzel Washington,69,61000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,Girl in the Basement,88,6.3,Elisabeth Röhm,Judd Nelson,229,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,Harry Potter and the Deathly Hallows: Part 2,130,8.1,David Yates,Daniel Radcliffe,238,125000000,1,8,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+111,Narvik: Hitler's First Defeat,108,6.6,Erik Skjoldbjærg,Billy Campbell,240,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,Violent Night,112,6.7,Tommy Wirkola,David Harbour,190,8000000,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+113,Scott Pilgrim vs. the World,112,7.5,Edgar Wright,Michael Cera,140,33281690,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,Harry Potter and the Chamber of Secrets,161,7.4,Chris Columbus,Daniel Radcliffe,198,100000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,Guardians of the Galaxy,121,8,James Gunn,Chris Pratt,7,170000000,0,8,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Puss in Boots,90,6.6,Chris Miller,Antonio Banderas,55,130000000,0,7,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Prisoners,153,8.1,Denis Villeneuve,Hugh Jackman,218,46000000,0,8,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+118,The Suicide Squad,132,7.2,James Gunn,Margot Robbie,119,185000000,0,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Pride & Prejudice,129,7.8,Joe Wright,Keira Knightley,97,28000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+120,Birdman or (The Unexpected Virtue of Ignorance),119,7.7,Alejandro G. Iñárritu,Michael Keaton,194,18000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Doctor Strange in the Multiverse of Madness,126,6.9,Sam Raimi,Benedict Cumberbatch,139,200000000,1,7,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+122,Beast,93,5.6,Baltasar Kormákur,Liyabuya Gongo,88,36000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,Strange World,102,5.6,Don Hall,Jake Gyllenhaal,114,120000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,Gone Girl,149,8.1,David Fincher,Ben Affleck,248,61000000,0,8,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+125,Uncharted,116,6.3,Ruben Fleischer,Tom Holland,73,120000000,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Catch Me If You Can,141,8.1,Steven Spielberg,Leonardo DiCaprio,249,52000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+127,Hidden Figures,127,7.8,Theodore Melfi,Taraji P. Henson,80,25000000,0,8,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+128,Fantastic Beasts: The Secrets of Dumbledore,142,6.2,David Yates,Eddie Redmayne,44,200000000,1,6,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+129,This Is 40,134,6.2,Judd Apatow,Paul Rudd,42,35000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,Shutter Island,138,8.2,Martin Scorsese,Leonardo DiCaprio,10,80000000,0,8,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+131,About Time,123,7.8,Richard Curtis,Domhnall Gleeson,118,12000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,Piggy,99,6.2,Carlota Pereda,Laura Galán,182,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133,The Beasts,137,7.5,Rodrigo Sorogoyen,Marina Foïs,183,NA,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,Encanto,102,7.2,Jared Bush,Stephanie Beatriz,77,50000000,0,7,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+135,Superbad,113,7.6,Greg Mottola,Michael Cera,178,20000000,0,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Creed,133,7.6,Ryan Coogler,Michael B. Jordan,87,35000000,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+137,Eternals,156,6.3,Chloé Zhao,Gemma Chan,113,200000000,0,6,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+138,The Lord of the Rings: The Return of the King,201,9,Peter Jackson,Elijah Wood,18,94000000,1,9,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,No Time to Die,163,7.3,Cary Joji Fukunaga,Daniel Craig,133,250000000,0,7,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+140,Death on the Nile,127,6.3,Kenneth Branagh,Tom Bateman,51,90000000,0,6,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+141,She Said,129,7.2,Maria Schrader,Lola Petticrew,66,32000000,0,7,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+142,Get Out,104,7.7,Jordan Peele,Daniel Kaluuya,192,4500000,0,8,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+143,The Prestige,130,8.5,Christopher Nolan,Christian Bale,12,40000000,0,9,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+144,Lady Chatterley's Lover,126,6.6,Laure de Clermont-Tonnerre,Emma Corrin,52,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,Jeepers Creepers: Reborn,88,2.5,Timo Vuorensola,Sydney Craven,243,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,Pleasure,109,6.4,Ninja Thyberg,Sofia Kappel,58,2000000,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,The Founder,115,7.2,John Lee Hancock,Michael Keaton,50,25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,Causeway,94,6.6,Lila Neugebauer,Jennifer Lawrence,39,NA,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,Old,108,5.8,M. Night Shyamalan,Gael García Bernal,31,18000000,0,6,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+150,Terrifier 2,138,6.2,Damien Leone,Lauren LaVera,91,250000,1,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+151,No Country for Old Men,122,8.2,Ethan Coen,Tommy Lee Jones,247,25000000,0,8,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+152,Tenet,150,7.3,Christopher Nolan,John David Washington,160,250000000,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+153,The Lost City,112,6.1,Aaron Nee,Sandra Bullock,32,68000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,Harry Potter and the Order of the Phoenix,138,7.5,David Yates,Daniel Radcliffe,179,150000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,The Great Gatsby,143,7.2,Baz Luhrmann,Leonardo DiCaprio,169,105000000,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+156,In Bruges,107,7.9,Martin McDonagh,Colin Farrell,141,15000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+157,Promising Young Woman,113,7.5,Emerald Fennell,Carey Mulligan,57,10000000,0,8,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+158,"Crazy, Stupid, Love.",118,7.4,Glenn Ficarra,Steve Carell,161,50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,Little Women,135,7.8,Greta Gerwig,Saoirse Ronan,68,40000000,1,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+160,Four Good Days,100,6.5,Rodrigo García,Mila Kunis,228,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,CODA,111,8,Sian Heder,Emilia Jones,38,10000000,1,8,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,The Fallout,96,7,Megan Park,Jenna Ortega,82,12000000,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Emily the Criminal,97,6.7,John Patton Ford,Aubrey Plaza,116,2000000,0,7,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+164,Hacksaw Ridge,139,8.1,Mel Gibson,Andrew Garfield,164,40000000,0,8,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+165,The Fast and the Furious,106,6.8,Rob Cohen,Vin Diesel,124,38000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,Sing 2,110,7.4,Garth Jennings,Matthew McConaughey,217,85000000,1,7,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,Her,126,8,Spike Jonze,Joaquin Phoenix,191,23000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+168,The Quiet Girl,94,7.7,Colm Bairéad,Carrie Crowley,181,NA,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Green Book,130,8.2,Peter Farrelly,Viggo Mortensen,157,23000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+170,The Dreamers,115,7.1,Bernardo Bertolucci,Michael Pitt,30,15000000,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+171,The Grand Budapest Hotel,99,8.1,Wes Anderson,Ralph Fiennes,233,25000000,0,8,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+172,I Am Legend,101,7.2,Francis Lawrence,Will Smith,220,150000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,The Lobster,119,7.1,Yorgos Lanthimos,Colin Farrell,86,4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,See How They Run,98,6.5,Tom George,Kieran Hodgson,151,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,Licorice Pizza,133,7.2,Paul Thomas Anderson,Alana Haim,29,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,Friends with Benefits,109,6.5,Will Gluck,Mila Kunis,120,35000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+177,Luckiest Girl Alive,113,6.4,Mike Barker,Mila Kunis,150,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+178,Kingsman: The Golden Circle,141,6.7,Matthew Vaughn,Taron Egerton,107,104000000,1,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,War of the Worlds,116,6.5,Steven Spielberg,Tom Cruise,145,132000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+180,Avengers: Infinity War,149,8.4,Anthony Russo,Robert Downey Jr.,4,316000000,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+181,Mean Girls,97,7.1,Mark Waters,Lindsay Lohan,125,17000000,0,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,Suicide Squad,123,5.9,David Ayer,Will Smith,212,185000000,0,6,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+183,Minions: The Rise of Gru,87,6.6,Kyle Balda,Steve Carell,209,80000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,John Wick: Chapter 3 - Parabellum,130,7.4,Chad Stahelski,Keanu Reeves,117,75000000,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+185,Under the Skin,108,6.3,Jonathan Glazer,Scarlett Johansson,45,13000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,The Bubble,126,4.7,Judd Apatow,Harry Trevaldwyn,84,100000000,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Split,117,7.3,M. Night Shyamalan,James McAvoy,158,9000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,Pitch Perfect,112,7.1,Jason Moore,Anna Kendrick,100,17000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,Creed II,130,7.1,Steven Caple Jr.,Michael B. Jordan,33,50000000,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+190,Bodies Bodies Bodies,94,6.3,Halina Reijn,Amandla Stenberg,129,90000000,0,6,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+191,Mad Max: Fury Road,120,8.1,George Miller,Tom Hardy,1,160000000,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+192,It,135,7.3,Andy Muschietti,Bill Skarsgård,170,40000000,1,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+193,Zack Snyder's Justice League,242,8,Zack Snyder,Henry Cavill,131,70000000,1,8,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+194,Mission: Impossible - Fallout,147,7.7,Christopher McQuarrie,Tom Cruise,109,178000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+195,Harry Potter and the Deathly Hallows: Part 1,146,7.7,David Yates,Daniel Radcliffe,171,250000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,Marcel the Shell with Shoes On,90,7.8,Dean Fleischer Camp,Jenny Slate,26,NA,0,8,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,Call Me by Your Name,132,7.8,Luca Guadagnino,Timothée Chalamet,90,3500000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+198,The Magnificent Seven,132,6.8,Antoine Fuqua,Denzel Washington,70,2000000,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+199,Harry Potter and the Half-Blood Prince,153,7.6,David Yates,Daniel Radcliffe,168,250000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+200,Love Actually,135,7.6,Richard Curtis,Hugh Grant,155,45000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+201,Sicario,121,7.6,Denis Villeneuve,Emily Blunt,142,30000000,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+202,The Lord of the Rings: The Two Towers,179,8.8,Peter Jackson,Elijah Wood,16,94000000,1,9,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,Twilight,122,5.3,Catherine Hardwicke,Kristen Stewart,148,37000000,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+204,Till,130,7.2,Chinonye Chukwu,Danielle Deadwyler,225,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,Free Guy,115,7.1,Shawn Levy,Ryan Reynolds,121,120000000,0,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,Apocalypto,139,7.8,Mel Gibson,Gerardo Taracena,101,40000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,"Three Billboards Outside Ebbing, Missouri",115,8.1,Martin McDonagh,Frances McDormand,159,15000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+208,The King's Man,131,6.3,Matthew Vaughn,Ralph Fiennes,47,100000000,1,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+209,Ford v Ferrari,152,8.1,James Mangold,Matt Damon,132,97600000,0,8,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+210,Deadpool 2,119,7.7,David Leitch,Ryan Reynolds,180,110000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+211,Sick,83,6.1,John Hyams,Gideon Adlon,242,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+212,Crimes of the Future,107,5.9,David Cronenberg,Viggo Mortensen,99,27000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+213,Nineteen seventeen,119,8.2,Sam Mendes,Dean-Charles Chapman,188,95000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,Pirates of the Caribbean: The Curse of the Black Pearl,143,8.1,Gore Verbinski,Johnny Depp,5,140000000,0,8,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+215,Just Go with It,117,6.4,Dennis Dugan,Adam Sandler,83,80000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,Prey,100,7.1,Dan Trachtenberg,Amber Midthunder,63,65000000,0,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,Crazy Rich Asians,120,6.9,Jon M. Chu,Constance Wu,56,30000000,0,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+218,Passengers,116,7,Morten Tyldum,Jennifer Lawrence,137,110000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,Oldboy,120,8.4,Park Chan-wook,Choi Min-sik,176,3000000,0,8,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+220,Kingsman: The Secret Service,129,7.7,Matthew Vaughn,Colin Firth,207,81000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,A Quiet Place,90,7.5,John Krasinski,Emily Blunt,165,17000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,Drive,100,7.8,Nicolas Winding Refn,Ryan Gosling,202,15000000,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,A Star Is Born,136,7.6,Bradley Cooper,Lady Gaga,123,36000000,1,8,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+224,The School for Good and Evil,147,5.8,Paul Feig,Kit Young,89,NA,0,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,Transformers,144,7,Michael Bay,Shia LaBeouf,196,150000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,The Irishman,209,7.8,Martin Scorsese,Robert De Niro,126,159000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+227,365 Days,114,3.3,Barbara Bialowas,Anna-Maria Sieklucka,244,NA,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,Jojo Rabbit,108,7.9,Taika Waititi,Roman Griffin Davis,130,14000000,0,8,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,Last Seen Alive,95,5.6,Brian Goodman,Gerard Butler,74,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,Dunkirk,106,7.8,Christopher Nolan,Fionn Whitehead,205,100000000,0,8,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+231,Guardians of the Galaxy Vol. 2,136,7.6,James Gunn,Chris Pratt,211,200000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,The Bad Guys,100,6.8,Pierre Perifel,Sam Rockwell,143,70000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,Deadpool,108,8,Tim Miller,Ryan Reynolds,3,58000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+234,Men,100,6.1,Alex Garland,Jessie Buckley,146,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,The Invitation,105,5.3,Jessica M. Thompson,Nathalie Emmanuel,67,10000000,0,5,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+236,Rogue One: A Star Wars Story,133,7.8,Gareth Edwards,Felicity Jones,199,200000000,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+237,The Good Nurse,121,6.8,Tobias Lindholm,Eddie Redmayne,189,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,Fury,134,7.5,David Ayer,Brad Pitt,156,68000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,The Cabin in the Woods,95,7,Drew Goddard,Kristen Connolly,138,30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,The Little Things,128,6.3,John Lee Hancock,Denzel Washington,24,30000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+241,The Outfit,105,7.1,Graham Moore,Mark Rylance,149,5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,The Dark Knight Rises,164,8.4,Christopher Nolan,Christian Bale,17,250000000,1,8,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+243,Orphan: First Kill,99,5.9,William Brent Bell,Isabelle Fuhrman,115,10000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+244,The Handmaiden,145,8.1,Park Chan-wook,Kim Min-hee,48,8000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,Fast & Furious,107,6.5,Justin Lin,Vin Diesel,92,85000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,Armageddon Time,114,6.5,James Gray,Anne Hathaway,239,15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+247,Wrath of Man,119,7.1,Guy Ritchie,Jason Statham,60,40000000,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+248,The Age of Adaline,112,7.2,Lee Toland Krieger,Blake Lively,61,25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+249,Now You See Me,115,7.2,Louis Leterrier,Jesse Eisenberg,204,75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+250,Baby Driver,113,7.6,Edgar Wright,Ansel Elgort,167,34000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,Prometheus,124,7,Ridley Scott,Noomi Rapace,198,130000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,Last Night in Soho,116,7,Edgar Wright,Thomasin McKenzie,29,43000000,0,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+253,Poker Face,94,5.1,Russell Crowe,Russell Crowe,210,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,A Serbian Film,104,5,Srdjan Spasojevic,Srdjan 'Zika' Todorovic,204,NA,0,5,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+255,John Wick: Chapter 2,122,7.4,Chad Stahelski,Keanu Reeves,156,40000000,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+256,The Hunger Games: Catching Fire,146,7.5,Francis Lawrence,Jennifer Lawrence,207,78000000,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+257,The Wonder,108,6.6,Sebastián Lelio,Florence Pugh,119,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+258,After,105,5.3,Jenny Gage,Josephine Langford,190,14000000,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+259,Spirited Away,125,8.6,Hayao Miyazaki,Daveigh Chase,222,19000000,0,9,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+260,Barefoot,90,6.5,Andrew Fleming,Evan Rachel Wood,86,6500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,Atonement,123,7.8,Joe Wright,Keira Knightley,106,30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,The Worst Person in the World,128,7.8,Joachim Trier,Renate Reinsve,216,5600000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,The Sea Beast,115,7,Chris Williams,Karl Urban,163,NA,0,7,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,The Greatest Showman,105,7.5,Michael Gracey,Hugh Jackman,108,84000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+265,Remember Me,113,7.1,Allen Coulter,Robert Pattinson,31,16000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,The Stranger,117,6.6,Thomas M. Wright,Joel Edgerton,49,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,An Action Hero,130,7.1,Anirudh Iyer,Ayushmann Khurrana,84,3600000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,Arrival,116,7.9,Denis Villeneuve,Amy Adams,212,47000000,0,8,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+269,The Hobbit: An Unexpected Journey,169,7.8,Peter Jackson,Martin Freeman,237,180000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,Baywatch,116,5.5,Seth Gordon,Dwayne Johnson,54,69000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+271,Mrs. Harris Goes to Paris,115,7.1,Anthony Fabian,Lesley Manville,27,13000000,0,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,Me Before You,106,7.4,Thea Sharrock,Emilia Clarke,93,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,"Good Luck to You, Leo Grande",97,7.2,Sophie Hyde,Emma Thompson,85,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,Spider-Man,121,7.4,Sam Raimi,Tobey Maguire,234,139000000,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+275,Furious 7,137,7.1,James Wan,Vin Diesel,142,190000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,Iron Man,126,7.9,Jon Favreau,Robert Downey Jr.,2,140000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+277,House of Gucci,158,6.6,Ridley Scott,Lady Gaga,28,75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+278,No Strings Attached,108,6.2,Ivan Reitman,Natalie Portman,74,25000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+279,Weird: The Al Yankovic Story,108,7,Eric Appel,Diedrich Bader,88,8000000,0,7,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+280,The Hateful Eight,168,7.8,Quentin Tarantino,Samuel L. Jackson,197,44000000,0,8,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+281,Triple Frontier,125,6.4,J.C. Chandor,Ben Affleck,21,115000000,0,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+282,Oblivion,124,7,Joseph Kosinski,Tom Cruise,179,120000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+283,She's the Man,105,6.3,Andy Fickman,Amanda Bynes,41,20000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+284,Enola Holmes 2,129,6.7,Harry Bradbeer,Millie Bobby Brown,228,50000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,Spider-Man: Into the Spider-Verse,117,8.4,Bob Persichetti,Shameik Moore,181,90000000,1,8,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,Uncut Gems,135,7.4,Benny Safdie,Adam Sandler,110,19000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,Shang-Chi and the Legend of the Ten Rings,132,7.4,Destin Daniel Cretton,Simu Liu,141,150000000,0,7,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+288,Sing,108,7.1,Garth Jennings,Matthew McConaughey,46,75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+289,Halloween Ends,111,5,David Gordon Green,Jamie Lee Curtis,186,33000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+290,Ad Astra,123,6.5,James Gray,Brad Pitt,81,90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,Donnie Darko,113,8,Richard Kelly,Jake Gyllenhaal,231,4500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,Nymphomaniac: Vol. I,117,6.9,Lars von Trier,Charlotte Gainsbourg,17,4700000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,Godzilla vs. Kong,113,6.3,Adam Wingard,Alexander Skarsgård,66,160000000,1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+294,The Killing of a Sacred Deer,121,7,Yorgos Lanthimos,Barry G. Bernson,38,NA,0,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+295,Cars,117,7.2,John Lasseter,Owen Wilson,153,120000000,0,7,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,City of God,130,8.6,Fernando Meirelles,Alexandre Rodrigues,219,3300000,0,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+297,Knight and Day,109,6.3,James Mangold,Tom Cruise,60,117000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+298,The Vow,104,6.8,Michael Sucsy,Rachel McAdams,57,30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+299,Beauty and the Beast,129,7.1,Bill Condon,Emma Watson,117,160000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,Batman Begins,140,8.2,Christopher Nolan,Christian Bale,6,150000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+301,The Shape of Water,123,7.3,Guillermo del Toro,Sally Hawkins,151,20000000,0,7,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+302,The Father,97,8.2,Florian Zeller,Anthony Hopkins,39,6000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+303,The Perks of Being a Wallflower,103,7.9,Stephen Chbosky,Logan Lerman,177,13000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+304,Ex Machina,108,7.7,Alex Garland,Alicia Vikander,183,15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+305,The Matrix Resurrections,148,5.7,Lana Wachowski,Keanu Reeves,90,190000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+306,Emancipation,132,6.1,Antoine Fuqua,Will Smith,61,120000000,0,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+307,Ghostbusters: Afterlife,124,7.1,Jason Reitman,Carrie Coon,51,75000000,1,7,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+308,Shazam!,132,7,David F. Sandberg,Zachary Levi,128,100000000,0,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,Vesper,114,5.9,Kristina Buozyte,Raffiella Chapman,32,5300000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,The Fate of the Furious,136,6.6,F. Gary Gray,Vin Diesel,78,250000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+311,Brokeback Mountain,134,7.7,Ang Lee,Jake Gyllenhaal,131,14000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+312,There Will Be Blood,158,8.2,Paul Thomas Anderson,Daniel Day-Lewis,194,25000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,Closer,104,7.2,Mike Nichols,Natalie Portman,69,27000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,Ambulance,136,6.1,Michael Bay,Jake Gyllenhaal,227,40000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,Casino Royale,144,8,Martin Campbell,Daniel Craig,205,150000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+316,My Bloody Valentine,101,5.4,Patrick Lussier,Jensen Ackles,191,15000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,The Big Short,130,7.8,Adam McKay,Christian Bale,155,50000000,0,8,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+318,The Avengers,143,8,Joss Whedon,Robert Downey Jr.,5,220000000,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+319,The Last Duel,152,7.4,Ridley Scott,Matt Damon,40,100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+320,Man of Steel,143,7.1,Zack Snyder,Henry Cavill,225,225000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+321,Shrek,90,7.9,Andrew Adamson,Mike Myers,209,60000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,Tropic Thunder,107,7.1,Ben Stiller,Ben Stiller,149,92000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+323,Ready Player One,140,7.4,Steven Spielberg,Tye Sheridan,158,175000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+324,The French Dispatch,107,7.1,Wes Anderson,Benicio Del Toro,18,25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+325,The Hangover,100,7.7,Todd Phillips,Zach Galifianakis,229,35000000,0,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,Murder Mystery,97,6,Kyle Newacheck,Adam Sandler,22,24000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+327,White Chicks,109,5.7,Keenen Ivory Wayans,Marlon Wayans,34,37000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,Nightmare Alley,150,7,Guillermo del Toro,Bradley Cooper,30,60000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+329,Vadh,110,7.1,Jaspal Singh Sandhu,Sanjay Mishra,113,500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,Sweet Home Alabama,108,6.2,Andy Tennant,Reese Witherspoon,14,30000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,Medieval,125,5.9,Petr Jákl,Ben Foster,230,20300000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,Ratatouille,111,8.1,Brad Bird,Brad Garrett,218,150000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,The Proposal,108,6.7,Anne Fletcher,Sandra Bullock,122,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,A.I. Artificial Intelligence,146,7.2,Steven Spielberg,Haley Joel Osment,116,90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+335,West Side Story,156,7.2,Steven Spielberg,Ansel Elgort,240,100000000,1,7,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+336,Black Widow,134,6.7,Cate Shortland,Scarlett Johansson,139,200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,The Pianist,150,8.5,Roman Polanski,Adrien Brody,239,35000000,0,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+338,The Equalizer,132,7.2,Antoine Fuqua,Denzel Washington,133,55000000,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+339,Watchmen,162,7.6,Zack Snyder,Jackie Earle Haley,184,120000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+340,Fast Five,130,7.3,Justin Lin,Vin Diesel,138,125000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+341,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",143,6.9,Andrew Adamson,Tilda Swinton,145,180000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+342,Brimstone,148,7,Martin Koolhoven,Guy Pearce,147,14500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,The Hunt,115,8.3,Thomas Vinterberg,Mads Mikkelsen,123,14000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,Napoleon Dynamite,96,6.9,Jared Hess,Jon Heder,70,400000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+345,Zootopia,108,8,Byron Howard,Ginnifer Goodwin,174,150000000,0,8,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,Portrait of a Lady on Fire,122,8.1,Céline Sciamma,Noémie Merlant,249,5100000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+347,Kill Bill: Vol. 1,111,8.2,Quentin Tarantino,Uma Thurman,3,30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+348,500 Days of Summer,95,7.7,Marc Webb,Zooey Deschanel,178,7500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,Cirkus,139,5.2,Rohit Shetty,Deepika Padukone,65,18000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+350,Father Stu,124,6.5,Rosalind Ross,Mark Wahlberg,67,4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+351,The Martian,144,8,Ridley Scott,Matt Damon,243,108000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+352,Blue Valentine,112,7.3,Derek Cianfrance,Ryan Gosling,62,1000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,Wonder Woman 1984,151,5.4,Patty Jenkins,Gal Gadot,100,200000000,1,5,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+354,Valentine,96,4.8,Jamie Blanks,Denise Richards,104,29000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+355,Murder on the Orient Express,114,6.5,Kenneth Branagh,Kenneth Branagh,94,55000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+356,Suspiria,152,6.7,Luca Guadagnino,Chloë Grace Moretz,233,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+357,Red Notice,118,6.3,Rawson Marshall Thurber,Dwayne Johnson,105,200000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+358,Morbius,104,5.2,Daniel Espinosa,Jared Leto,20,75000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+359,Room,118,8.1,Lenny Abrahamson,Brie Larson,150,13000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+360,World War Z,116,7,Marc Forster,Brad Pitt,208,190000000,0,7,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+361,300,117,7.6,Zack Snyder,Gerard Butler,235,65000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+362,Divergent,139,6.6,Neil Burger,Shailene Woodley,165,85000000,0,7,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+363,28 Days Later,113,7.5,Danny Boyle,Cillian Murphy,148,8000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364,The King,140,7.3,David Michôd,Tom Glynn-Carney,23,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+365,Star Wars: The Rise Of Skywalker,141,6.5,J.J. Abrams,Daisy Ridley,162,275000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+366,Kung Fu Panda,92,7.6,Mark Osborne,Jack Black,168,130000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+367,Spoiler Alert,112,7.2,Michael Showalter,Jim Parsons,112,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+368,Moana,107,7.6,Ron Clements,Auli'i Cravalho,127,150000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+369,"Argentina, 1985",140,7.6,Santiago Mitre,Ricardo Darín,53,NA,0,8,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+370,Silver Linings Playbook,122,7.7,David O. Russell,Bradley Cooper,214,21000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+371,Margin Call,107,7.1,J.C. Chandor,Zachary Quinto,24,3500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372,Enola Holmes,123,6.6,Harry Bradbeer,Millie Bobby Brown,59,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+373,The Judge,141,7.4,David Dobkin,Robert Downey Jr.,56,50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,Troll,101,5.8,Roar Uthaug,Ine Marie Wilmann,146,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+375,Training Day,122,7.7,Antoine Fuqua,Denzel Washington,157,45000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+376,The Maze Runner,113,6.8,Wes Ball,Dylan O'Brien,167,34000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+377,Mulholland Drive,147,7.9,David Lynch,Naomi Watts,130,15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+378,Wind River,107,7.7,Taylor Sheridan,Elizabeth Olsen,91,11000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+379,American Hustle,138,7.2,David O. Russell,Christian Bale,171,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+380,Moonfall,130,5.1,Roland Emmerich,Halle Berry,238,140000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+381,The Curious Case of Benjamin Button,166,7.8,David Fincher,Brad Pitt,203,150000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+382,Riddick,119,6.4,David Twohy,Vin Diesel,45,38000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+383,Troy,163,7.3,Wolfgang Petersen,Brad Pitt,180,185000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+384,Thor,115,7,Kenneth Branagh,Chris Hemsworth,242,250000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+385,Captain America: The First Avenger,124,6.9,Joe Johnston,Chris Evans,241,140000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+386,Zoolander,90,6.5,Ben Stiller,Ben Stiller,102,28000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+387,Shooter,124,7.1,Antoine Fuqua,Mark Wahlberg,125,61000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+388,Palm Springs,90,7.4,Max Barbakow,Andy Samberg,42,5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+389,The Social Network,120,7.8,David Fincher,Jesse Eisenberg,213,40000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+390,Dark Waters,126,7.6,Todd Haynes,Mark Ruffalo,246,11100000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,Lou,107,6.1,Anna Foerster,Allison Janney,95,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+392,Jurassic World,124,6.9,Colin Trevorrow,Chris Pratt,201,150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+393,Annihilation,115,6.8,Alex Garland,Natalie Portman,120,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+394,Turning Red,100,7,Domee Shi,Rosalie Chiang,19,175000000,0,7,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Three Thousand Years of Longing,108,6.7,George Miller,Tilda Swinton,135,60000000,0,7,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+396,Possessor,103,6.5,Brandon Cronenberg,Andrea Riseborough,136,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+397,The Conjuring,112,7.5,James Wan,Patrick Wilson,175,20000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,The Intouchables,112,8.5,Olivier Nakache,François Cluzet,244,10800000,0,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+399,Into the Wild,148,8.1,Sean Penn,Emile Hirsch,199,15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,Thor: Ragnarok,130,7.9,Taika Waititi,Chris Hemsworth,221,180000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+401,The Visit,94,6.2,M. Night Shyamalan,Olivia DeJonge,26,5000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+402,Howl's Moving Castle,119,8.2,Hayao Miyazaki,Chieko Baisho,144,24000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+403,Blue Is the Warmest Colour,180,7.7,Abdellatif Kechiche,Léa Seydoux,35,4240000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,EO,88,6.8,Jerzy Skolimowski,Sandra Drzymalska,143,NA,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Idiocracy,84,6.5,Mike Judge,Luke Wilson,43,2400000,0,7,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+406,Hamilton,160,8.4,Thomas Kail,Lin-Manuel Miranda,250,12500000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+407,Fantastic Beasts and Where to Find Them,132,7.2,David Yates,Eddie Redmayne,170,175000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+408,Signs,106,6.8,M. Night Shyamalan,Mel Gibson,132,72000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+409,Catherine Called Birdy,108,6.6,Lena Dunham,Bella Ramsey,173,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+410,Inside Man,129,7.6,Spike Lee,Denzel Washington,134,45000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+411,Ready or Not,95,6.8,Matt Bettinelli-Olpin,Samara Weaving,36,6000000,0,7,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+412,Hustle,117,7.3,Jeremiah Zagar,Adam Sandler,16,21000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+413,Thirteen Lives,147,7.8,Ron Howard,Viggo Mortensen,189,55000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+414,Star Wars: Episode VII - The Force Awakens,138,7.8,J.J. Abrams,Daisy Ridley,248,306000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+415,The Man from U.N.C.L.E.,116,7.2,Guy Ritchie,Henry Cavill,118,84000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+416,Gangs of New York,167,7.5,Martin Scorsese,Leonardo DiCaprio,159,97000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+417,Can You Keep a Secret?,94,5.3,Elise Durán,Alexandra Daddario,48,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+418,The Lighthouse,109,7.4,Robert Eggers,Robert Pattinson,68,11000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+419,On the Line,104,5.4,Romuald Boulanger,Mel Gibson,195,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+420,Run,90,6.7,Aneesh Chaganty,Sarah Paulson,236,1000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+421,Scooby-Doo,86,5.2,Raja Gosnell,Matthew Lillard,15,84000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+422,We're the Millers,110,7,Rawson Marshall Thurber,Jason Sudeikis,161,37000000,0,7,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+423,The Revenant,156,8,Alejandro G. Iñárritu,Leonardo DiCaprio,232,135000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+424,The Day After Tomorrow,124,6.4,Roland Emmerich,Dennis Quaid,160,125000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+425,Emily,130,6.9,Frances O'Connor,Emma Mackey,114,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+426,21 Jump Street,109,7.2,Phil Lord,Jonah Hill,187,42000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+427,Spider-Man: Homecoming,133,7.4,Jon Watts,Tom Holland,206,175000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+428,Battleship,131,5.8,Peter Berg,Alexander Skarsgård,89,209000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+429,Nocturnal Animals,116,7.5,Tom Ford,Amy Adams,107,22500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+430,The VVitch: A New-England Folktale,92,6.9,Robert Eggers,Anya Taylor-Joy,98,4000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431,Captain Marvel,123,6.8,Anna Boden,Brie Larson,188,152000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+432,Bros,115,6.4,Nicholas Stoller,Billy Eichner,92,22000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+433,Thirteen,100,6.8,Catherine Hardwicke,Evan Rachel Wood,245,2000000,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,I Can Do Bad All by Myself,113,4.6,Tyler Perry,Tyler Perry,8,19000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+435,Blended,117,6.5,Frank Coraci,Adam Sandler,25,40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+436,Sin City,124,8,Frank Miller,Mickey Rourke,224,40000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+437,Bardo: False Chronicle of a Handful of Truths,159,6.8,Alejandro G. Iñárritu,Daniel Giménez Cacho,10,NA,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+438,Pinocchio,105,5,Robert Zemeckis,Joseph Gordon-Levitt,129,150000000,1,5,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Vacation,99,6.1,John Francis Daley,Ed Helms,13,31000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+440,Glass,129,6.6,M. Night Shyamalan,James McAvoy,82,20000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,Zodiac,157,7.7,David Fincher,Jake Gyllenhaal,182,65000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+442,A Quiet Place Part II,97,7.2,John Krasinski,Emily Blunt,79,17000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+443,The Girl Next Door,109,6.7,Luke Greenfield,Emile Hirsch,71,21000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+444,Spiderhead,106,5.4,Joseph Kosinski,Chris Hemsworth,192,100000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+445,Frozen,102,7.4,Chris Buck,Kristen Bell,200,150000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+446,Les Misérables,158,7.5,Tom Hooper,Hugh Jackman,121,61000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+447,Jumanji: Welcome to the Jungle,119,6.9,Jake Kasdan,Dwayne Johnson,140,90000000,1,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,Hell or High Water,102,7.6,David Mackenzie,Chris Pine,77,12000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+449,Goodnight Mommy,92,5.6,Matt Sobel,Naomi Watts,9,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+450,Deep Water,115,5.4,Adrian Lyne,Ben Affleck,169,49000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+451,Mystic River,138,7.9,Clint Eastwood,Sean Penn,164,30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+452,Little Children,137,7.5,Todd Field,Kate Winslet,11,26000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+453,Inheritance,111,5.5,Vaughn Stein,Lily Collins,37,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+454,Gerald's Game,103,6.5,Mike Flanagan,Carla Gugino,12,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+455,Twenty Twelve,158,5.8,Roland Emmerich,John Cusack,137,200000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+456,Wonder,113,7.9,Stephen Chbosky,Jacob Tremblay,44,20000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+457,Operation Mincemeat,128,6.6,John Madden,Colin Firth,103,6300000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+458,Disenchanted,119,5.6,Adam Shankman,Amy Adams,64,85000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+459,Lie with Me,93,5.2,Clement Virgo,Lauren Lee Smith,33,1600000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+460,Secretary,107,6.9,Steven Shainberg,James Spader,247,4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+461,Inside Out,95,8.2,Pete Docter,Amy Poehler,215,175000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+462,The Fast and the Furious: Tokyo Drift,104,6,Justin Lin,Lucas Black,101,85000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+463,The Swimmers,134,7.4,Sally El Hosaini,Matthias Schweighöfer,87,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+464,The People We Hate at the Wedding,99,5.7,Claire Scanlon,Allison Janney,211,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+465,The Mummy,110,5.4,Alex Kurtzman,Tom Cruise,55,80000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+466,Valerian and the City of a Thousand Planets,136,6.4,Luc Besson,Dane DeHaan,50,177000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+467,The Platform,94,7,Galder Gaztelu-Urrutia,Ivan Massagué,75,NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+468,Fresh,114,6.7,Mimi Cave,Daisy Edgar-Jones,193,17500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+469,The Devil Wears Prada,109,6.9,David Frankel,Anne Hathaway,152,35000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+470,The Reader,124,7.6,Stephen Daldry,Kate Winslet,83,32000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+471,Memory,114,5.7,Martin Campbell,Liam Neeson,96,43000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+472,Minority Report,145,7.6,Steven Spielberg,Tom Cruise,185,102000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+473,Watcher,91,6.3,Chloe Okuno,Maika Monroe,97,5000000,0,6,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+474,Downton Abbey: A New Era,124,7.4,Simon Curtis,Hugh Bonneville,80,40000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+475,Up,96,8.3,Pete Docter,Edward Asner,1,175000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+476,Spotlight,129,8.1,Tom McCarthy,Mark Ruffalo,166,20000000,0,8,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+477,Fantastic Beasts: The Crimes of Grindelwald,134,6.5,David Yates,Eddie Redmayne,109,200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+478,Us,116,6.8,Jordan Peele,Lupita Nyong'o,115,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+479,Coco,105,8.4,Lee Unkrich,Anthony Gonzalez,176,175000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+480,Legend,132,6.9,Brian Helgeland,Tom Hardy,52,22500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+481,Logan,137,8.1,James Mangold,Hugh Jackman,223,120000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+482,The Voyeurs,116,6,Michael Mohan,Sydney Sweeney,72,NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+483,Doctor Sleep,152,7.3,Mike Flanagan,Ewan McGregor,58,45000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+484,Moneyball,133,7.6,Bennett Miller,Brad Pitt,154,50000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+485,Bridesmaids,125,6.8,Paul Feig,Kristen Wiig,111,32500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+486,Orphan,123,7,Jaume Collet-Serra,Vera Farmiga,76,20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+487,Amélie,122,8.3,Jean-Pierre Jeunet,Audrey Tautou,220,10000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+488,How to Train Your Dragon,98,8.1,Dean DeBlois,Jay Baruchel,217,165000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+489,WALL·E,98,8.4,Andrew Stanton,Ben Burtt,4,180000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+490,The Imitation Game,114,8,Morten Tyldum,Benedict Cumberbatch,226,14000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+491,The Blind Side,129,7.6,John Lee Hancock,Quinton Aaron,124,29000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+492,Mad God,83,6.8,Phil Tippett,Alex Cox,7,150000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+493,Road to Perdition,117,7.7,Sam Mendes,Tom Hanks,99,80000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+494,After Ever Happy,95,4.5,Castille Landon,Josephine Langford,196,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+495,Army of the Dead,148,5.7,Zack Snyder,Dave Bautista,47,7000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+496,The Adam Project,106,6.7,Shawn Levy,Ryan Reynolds,63,116000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+497,National Treasure,131,6.9,Jon Turteltaub,Nicolas Cage,126,100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+498,Little Miss Sunshine,101,7.8,Jonathan Dayton,Steve Carell,172,8000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+499,The Harder They Fall,139,6.6,Jeymes Samuel,Jonathan Majors,202,90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+500,Mother!,121,6.6,Darren Aronofsky,Jennifer Lawrence,73,30000000,0,7,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+501,Nightcrawler,117,7.8,Dan Gilroy,Jake Gyllenhaal,"558,463",8500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+502,Kick-Ass,117,7.6,Matthew Vaughn,Aaron Taylor-Johnson,"569,321",30000000,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+503,Bohemian Rhapsody,134,7.9,Bryan Singer,Rami Malek,"546,786",50000000,0,8,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+504,The Girl Next Door,91,6.5,Gregory Wilson,William Atherton,"27,219",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+505,Den of Thieves,140,7,Christian Gudegast,Gerard Butler,"115,386",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+506,The Ballad of Buster Scruggs,133,7.3,Ethan Coen,Tim Blake Nelson,"152,264",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+507,Scream 4,111,6.2,Wes Craven,Neve Campbell,"153,700",40000000,1,6,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+508,Pan's Labyrinth,118,8.2,Guillermo del Toro,Ivana Baquero,"674,665",19000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,The Nice Guys,116,7.3,Shane Black,Russell Crowe,"335,536",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+510,Underwater,95,5.8,William Eubank,Kristen Stewart,"85,750",80000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+511,Aladdin,128,6.9,Guy Ritchie,Will Smith,"271,043",183000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+512,The Lion King,118,6.8,Jon Favreau,Donald Glover,"249,405",260000000,1,7,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,Speak No Evil,97,6.6,Christian Tafdrup,Morten Burian,"23,141",3000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+514,The Longest Yard,113,6.4,Peter Segal,Adam Sandler,"183,713",82000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+515,Captain America: Civil War,147,7.8,Anthony Russo,Chris Evans,"798,056",250000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+516,Revolutionary Road,119,7.3,Sam Mendes,Leonardo DiCaprio,"216,567",35000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+517,Bandit,126,6.4,Allan Ungar,Josh Duhamel,"6,565",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+518,Wedding Crashers,119,7,David Dobkin,Owen Wilson,"361,482",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+519,A Man Called Ove,116,7.7,Hannes Holm,Rolf Lassgård,"59,844",50000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+520,Grown Ups,102,5.9,Dennis Dugan,Adam Sandler,"256,804",80000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,Red Sparrow,140,6.6,Francis Lawrence,Jennifer Lawrence,"189,943",69000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,Easy A,92,7,Will Gluck,Emma Stone,"396,534",8000000,0,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+523,My Policeman,113,6.5,Michael Grandage,Harry Styles,"16,640",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+524,Fifty Shades Freed,105,4.5,James Foley,Dakota Johnson,"67,863",55000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+525,El Camino: A Breaking Bad Movie,122,7.3,Vince Gilligan,Aaron Paul,"258,463",6000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+526,Beautiful Boy,120,7.3,Felix van Groeningen,Steve Carell,"82,495",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+527,Children of Men,109,7.9,Alfonso Cuarón,Julianne Moore,"506,012",76000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+528,The Power of the Dog,126,6.8,Jane Campion,Benedict Cumberbatch,"178,956",37000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+529,This Is the End,107,6.6,Evan Goldberg,James Franco,"417,990",32000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+530,Jennifer's Body,102,5.4,Karyn Kusama,Megan Fox,"138,896",16000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+531,Eat Pray Love,133,5.8,Ryan Murphy,Julia Roberts,"99,747",60000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+532,Tron: Legacy,125,6.8,Joseph Kosinski,Jeff Bridges,"341,991",170000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+533,Room in Rome,107,6.1,Julio Medem,Elena Anaya,"24,813",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+534,The Devil All the Time,138,7.1,Antonio Campos,Bill Skarsgård,"139,000",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+535,The Butterfly Effect,113,7.6,Eric Bress,Ashton Kutcher,"496,009",13000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+536,Shrek 2,93,7.3,Andrew Adamson,Mike Myers,"472,998",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+537,Tusk,102,5.3,Kevin Smith,Justin Long,"56,893",3000000,0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+538,Justice League,120,6.1,Zack Snyder,Ben Affleck,"457,959",300000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+539,Iron Man Three,130,7.1,Shane Black,Robert Downey Jr.,"858,906",200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+540,Star Trek,127,7.9,J.J. Abrams,Chris Pine,"607,150",150000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+541,Terrifier,85,5.6,Damien Leone,Jenna Kanell,"38,436",35000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+542,Charlie and the Chocolate Factory,115,6.7,Tim Burton,Johnny Depp,"490,098",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+543,Birds of Prey,109,6,Cathy Yan,Margot Robbie,"244,120",84500000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+544,Love & Other Drugs,112,6.7,Edward Zwick,Jake Gyllenhaal,"207,989",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+545,The Passion of the Christ,127,7.2,Mel Gibson,Jim Caviezel,"234,314",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+546,2 Fast 2 Furious,107,5.9,John Singleton,Paul Walker,"278,512",76000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+547,The Mist,126,7.1,Frank Darabont,Thomas Jane,"317,080",18000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+548,Sonic the Hedgehog 2,122,6.5,Jeff Fowler,James Marsden,"70,375",110000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+549,How to Lose a Guy in 10 Days,116,6.4,Donald Petrie,Kate Hudson,"246,570",50000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+550,Walk the Line,136,7.8,James Mangold,Joaquin Phoenix,"254,661",28000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+551,The Impossible,114,7.5,J.A. Bayona,Naomi Watts,"227,930",45000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+552,Rogue Agent,115,6.4,Declan Lawn,James Norton,"7,613",10000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+553,God's Crooked Lines,154,7,Oriol Paulo,Bárbara Lennie,"13,924",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+554,Your Name.,106,8.4,Makoto Shinkai,Ryûnosuke Kamiki,"275,258",3000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+555,3 Idiots,170,8.4,Rajkumar Hirani,Aamir Khan,"405,086",6700000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+556,Hellraiser,121,6,David Bruckner,Odessa A’zion,"38,039",NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+557,6 Underground,128,6.1,Michael Bay,Ryan Reynolds,"181,439",150000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+558,The Girl with the Dragon Tattoo,158,7.8,David Fincher,Daniel Craig,"469,381",90000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+559,Monamour,104,5.2,Tinto Brass,Anna Jimskaia,"5,655",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+560,Forgetting Sarah Marshall,111,7.1,Nicholas Stoller,Kristen Bell,"289,291",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+561,The Girl on the Train,112,6.5,Tate Taylor,Emily Blunt,"190,448",45000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+562,Dog,101,6.5,Reid Carolin,Channing Tatum,"38,196",15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+563,The Square,151,7.1,Ruben Östlund,Claes Bang,"69,870",5500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+564,Hannibal,131,6.8,Ridley Scott,Anthony Hopkins,"279,491",87000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+565,Batman v Superman: Dawn of Justice,151,6.4,Zack Snyder,Ben Affleck,"705,557",250000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+566,Vicky Cristina Barcelona,96,7.1,Woody Allen,Rebecca Hall,"259,335",15500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+567,Fast & Furious Presents: Hobbs & Shaw,137,6.5,David Leitch,Dwayne Johnson,"217,174",200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+568,A Beautiful Mind,135,8.2,Ron Howard,Russell Crowe,"940,020",58000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+569,In the Tall Grass,101,5.4,Vincenzo Natali,Laysla De Oliveira,"58,381",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+570,Martyrs,99,7,Pascal Laugier,Morjana Alaoui,"97,744",4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+571,Not Another Teen Movie,89,5.7,Joel Gallen,Chyler Leigh,"108,318",15000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+572,The Aviator,170,7.5,Martin Scorsese,Leonardo DiCaprio,"367,020",110000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+573,The 40-Year-Old Virgin,116,7.1,Judd Apatow,Steve Carell,"444,712",26000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+574,Alita: Battle Angel,122,7.3,Robert Rodriguez,Rosa Salazar,"274,007",170000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+575,Moulin Rouge!,127,7.6,Baz Luhrmann,Nicole Kidman,"288,756",50000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+576,Nomadland,107,7.3,Chloé Zhao,Frances McDormand,"165,724",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+577,The Secret: Dare to Dream,107,6.5,Andy Tennant,Katie Holmes,"14,953",21000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+578,Wonder Woman,141,7.4,Patty Jenkins,Gal Gadot,"665,805",149000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+579,47 Meters Down: Uncaged,90,5,Johannes Roberts,Sophie Nélisse,"27,609",12000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+580,Lady Bird,94,7.4,Greta Gerwig,Saoirse Ronan,"297,871",10000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+581,Finding Nemo,100,8.2,Andrew Stanton,Albert Brooks,"1,053,123",94000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+582,Crash,112,7.8,Paul Haggis,Don Cheadle,"439,584",6500000,0,8,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+583,Avengers: Age of Ultron,141,7.3,Joss Whedon,Robert Downey Jr.,"873,022",250000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+584,Black Hawk Down,144,7.7,Ridley Scott,Josh Hartnett,"402,005",92000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+585,Tangled,100,7.7,Nathan Greno,Mandy Moore,"461,342",260000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+586,I Know Who Killed Me,105,3.6,Chris Sivertson,Lindsay Lohan,"30,105",12000000,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+587,Aquaman,143,6.8,James Wan,Jason Momoa,"482,007",160000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+588,Jack Reacher,130,7,Christopher McQuarrie,Tom Cruise,"346,498",60000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+589,12 Years a Slave,134,8.1,Steve McQueen,Chiwetel Ejiofor,"707,696",20000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+590,Swiss Army Man,97,6.9,Dan Kwan,Paul Dano,"125,286",3000000,0,7,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+591,Brothers,105,7.1,Jim Sheridan,Jake Gyllenhaal,"132,564",26000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+592,The Lovely Bones,135,6.6,Peter Jackson,Rachel Weisz,"172,231",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+593,The Town,125,7.5,Ben Affleck,Ben Affleck,"396,682",37000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+594,DC League of Super-Pets,105,7.2,Jared Stern,Dwayne Johnson,"66,193",90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+595,Purple Hearts,122,6.7,Elizabeth Allen Rosenbaum,Sofia Carson,"40,088",2800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+596,Prospect,100,6.3,Christopher Caldwell,Sophie Thatcher,"29,220",4000000,0,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+597,13 Hours,144,7.3,Michael Bay,John Krasinski,"147,284",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+598,Furious 6,130,7,Justin Lin,Vin Diesel,"398,983",160000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,The Village,108,6.6,M. Night Shyamalan,Sigourney Weaver,"265,802",60000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+600,Constantine,121,7,Francis Lawrence,Keanu Reeves,"352,466",100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+601,Hercules,98,6,Brett Ratner,Dwayne Johnson,"158,634",100000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+602,Train to Busan,118,7.6,Sang-ho Yeon,Gong Yoo,"227,948",7600000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+603,Slumberland,117,6.7,Francis Lawrence,Jason Momoa,"23,494",150000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+604,Pearl Harbor,183,6.2,Michael Bay,Ben Affleck,"337,359",140000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605,Cruella,134,7.3,Craig Gillespie,Emma Stone,"239,087",100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+606,Okja,120,7.3,Bong Joon Ho,Tilda Swinton,"124,379",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+607,The Hobbit: The Battle of the Five Armies,144,7.4,Peter Jackson,Ian McKellen,"540,700",250000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+608,Mamma Mia!,108,6.5,Phyllida Lloyd,Meryl Streep,"251,863",52000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+609,Gifted,101,7.6,Marc Webb,Chris Evans,"119,823",7000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+610,I Spit on Your Grave,108,6.2,Steven R. Monroe,Sarah Butler,"86,499",2000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+611,Grown Ups 2,101,5.3,Dennis Dugan,Adam Sandler,"158,065",80000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+612,Underworld,121,7,Len Wiseman,Kate Beckinsale,"274,199",22000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+613,The Incredibles,115,8,Brad Bird,Craig T. Nelson,"748,073",92000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+614,Cashback,102,7.1,Sean Ellis,Sean Biggerstaff,"88,350",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+615,A Knight's Tale,132,6.9,Brian Helgeland,Heath Ledger,"190,795",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+616,The Pursuit of Happyness,117,8,Gabriele Muccino,Will Smith,"521,308",55000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+617,50 First Dates,99,6.8,Peter Segal,Adam Sandler,"361,564",75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+618,The Guilty,90,6.3,Antoine Fuqua,Jake Gyllenhaal,"130,237",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+619,Skyfall,143,7.8,Sam Mendes,Daniel Craig,"703,703",200000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+620,Law Abiding Citizen,109,7.4,F. Gary Gray,Gerard Butler,"302,772",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+621,The Hobbit: The Desolation of Smaug,161,7.8,Peter Jackson,Ian McKellen,"671,557",225000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+622,The Tomorrow War,138,6.5,Chris McKay,Chris Pratt,"209,684",200000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+623,Kingdom of Heaven,144,7.2,Ridley Scott,Orlando Bloom,"293,471",130000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+624,Ocean's Eleven,116,7.7,Steven Soderbergh,George Clooney,"583,242",85000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+625,Mr. Harrigan's Phone,104,6,John Lee Hancock,Donald Sutherland,"31,660",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+626,And Your Mother Too,106,7.7,Alfonso Cuarón,Maribel Verdú,"124,716",2000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+627,Corsage,114,6.7,Marie Kreutzer,Vicky Krieps,"5,619",8000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+628,Terminator: Dark Fate,128,6.2,Tim Miller,Linda Hamilton,"181,512",185000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+629,Alien: Covenant,122,6.4,Ridley Scott,Michael Fassbender,"286,033",97000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+630,The Meg,113,5.6,Jon Turteltaub,Jason Statham,"174,906",130000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+631,In Time,109,6.7,Andrew Niccol,Justin Timberlake,"417,748",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+632,Memories of Murder,132,8.1,Bong Joon Ho,Song Kang-ho,"189,961",2800000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+633,Bird Box,124,6.6,Susanne Bier,Sandra Bullock,"350,735",19800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+634,The Human Centipede (First Sequence),92,4.4,Tom Six,Dieter Laser,"81,134",1600000,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+635,Manchester by the Sea,137,7.8,Kenneth Lonergan,Casey Affleck,"288,545",9000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+636,After We Collided,105,5,Roger Kumble,Josephine Langford,"33,416",14000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+637,The Bourne Identity,119,7.9,Doug Liman,Franka Potente,"552,753",60000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+638,Death Proof,127,7,Quentin Tarantino,Kurt Russell,"296,383",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+639,Day Shift,113,6.1,J.J. Perry,Jamie Foxx,"79,637",100000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+640,Drishyam 2,140,8.3,Abhishek Pathak,Ajay Devgn,"32,131",6000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+641,Ocean's Eight,110,6.3,Gary Ross,Sandra Bullock,"224,640",70000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+642,Moonlight,111,7.4,Barry Jenkins,Mahershala Ali,"313,286",4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+643,The Best of Me,118,6.6,Michael Hoffman,James Marsden,"74,012",26000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,Indiana Jones and the Kingdom of the Crystal Skull,122,6.2,Steven Spielberg,Harrison Ford,"460,335",185000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+645,The Legend of Tarzan,110,6.2,David Yates,Alexander Skarsgård,"179,654",180000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+646,Stardust,127,7.6,Matthew Vaughn,Charlie Cox,"275,586",70000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+647,Holy Spider,118,7.3,Ali Abbasi,Mehdi Bajestani,"13,072",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+648,Pirates of the Caribbean: Dead Men Tell No Tales,129,6.5,Joachim Rønning,Johnny Depp,"318,305",230000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+649,Percy Jackson & the Olympians: The Lightning Thief,118,5.8,Chris Columbus,Logan Lerman,"192,017",95000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+650,Unfaithful,124,6.7,Adrian Lyne,Richard Gere,"91,681",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+651,Star Wars: Episode VIII - The Last Jedi,152,6.9,Rian Johnson,Daisy Ridley,"639,316",317000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+652,The Forgotten Battle,124,7.1,Matthijs van Heijningen Jr.,Gijs Blom,"32,315",15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+653,The Descent,99,7.2,Neil Marshall,Shauna Macdonald,"229,938",4000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+654,Fifty Shades Darker,118,4.6,James Foley,Dakota Johnson,"104,948",55000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+655,Bad Boys for Life,124,6.5,Adil El Arbi,Will Smith,"164,099",90000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+656,Crisis,118,6.2,Nicholas Jarecki,Gary Oldman,"11,662",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+657,Jungle,115,6.7,Greg McLean,Daniel Radcliffe,"58,747",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+658,Do Revenge,118,6.3,Jennifer Kaytin Robinson,Camila Mendes,"40,793",25000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+659,"Monsters, Inc.",92,8.1,Pete Docter,Billy Crystal,"918,776",115000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+660,Mission: Impossible - Rogue Nation,131,7.4,Christopher McQuarrie,Tom Cruise,"379,066",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+661,Enchanted,107,7.1,Kevin Lima,Amy Adams,"208,398",85000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+662,Love and Monsters,109,6.9,Michael Matthews,Dylan O'Brien,"131,482",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+663,Toy Story 4,100,7.7,Josh Cooley,Tom Hanks,"256,291",200000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+664,Brian and Charles,90,6.7,Jim Archer,David Earl,"5,232",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+665,He's Just Not That Into You,129,6.4,Ken Kwapis,Ginnifer Goodwin,"176,150",40000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+666,The Mummy Returns,130,6.4,Stephen Sommers,Brendan Fraser,"330,785",98000000,1,6,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+667,Prey for the Devil,93,5.2,Daniel Stamm,Jacqueline Byers,"10,605",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+668,"I, Robot",115,7.1,Alex Proyas,Will Smith,"547,834",120000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+669,Project X,88,6.6,Nima Nourizadeh,Thomas Mann,"215,445",12000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+670,White House Down,131,6.3,Roland Emmerich,Channing Tatum,"225,813",150000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+671,BlacKkKlansman,135,7.5,Spike Lee,John David Washington,"269,549",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+672,The Place Beyond the Pines,140,7.3,Derek Cianfrance,Ryan Gosling,"273,441",15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+673,Zombieland,88,7.6,Ruben Fleischer,Jesse Eisenberg,"586,218",23600000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+674,Saw,103,7.6,James Wan,Cary Elwes,"428,694",1200000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+675,The Many Saints of Newark,120,6.3,Alan Taylor,Alessandro Nivola,"56,208",50000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+676,Another Round,117,7.7,Thomas Vinterberg,Mads Mikkelsen,"166,525",5200000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+677,Life,104,6.6,Daniel Espinosa,Jake Gyllenhaal,"236,014",58000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+678,The Hunger Games: Mockingjay - Part 2,137,6.5,Francis Lawrence,Jennifer Lawrence,"334,264",160000000,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+679,V for Vendetta,132,8.2,James McTeigue,Hugo Weaving,"1,130,072",54000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+680,P.S. I Love You,126,7,Richard LaGravenese,Hilary Swank,"212,735",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+681,Birth,100,6.2,Jonathan Glazer,Nicole Kidman,"37,530",20000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+682,Warrior,140,8.2,Gavin O'Connor,Tom Hardy,"477,181",25000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+683,Marriage Story,137,7.9,Noah Baumbach,Adam Driver,"317,476",18000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+684,Belfast,98,7.3,Kenneth Branagh,Jude Hill,"77,984",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+685,Mission: Impossible - Ghost Protocol,132,7.4,Brad Bird,Tom Cruise,"496,343",145000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+686,The Girl in the Spider's Web,115,6.1,Fede Alvarez,Claire Foy,"48,879",43000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+687,The House That Jack Built,152,6.8,Lars von Trier,Matt Dillon,"80,028",9900000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+688,The Chronicles of Riddick,119,6.6,David Twohy,Vin Diesel,"232,413",110000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+689,The Lives of Others,137,8.4,Florian Henckel von Donnersmarck,Ulrich Mühe,"392,750",2000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+690,Redeeming Love,134,6.7,D.J. Caruso,Abigail Cowen,"8,494",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+691,It Chapter Two,169,6.5,Andy Muschietti,Jessica Chastain,"272,520",79000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+692,Star Trek Beyond,122,7,Justin Lin,Chris Pine,"249,299",185000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+693,Jumanji: The Next Level,123,6.7,Jake Kasdan,Dwayne Johnson,"257,008",125000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+694,Taken,90,7.8,Pierre Morel,Liam Neeson,"609,162",25000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+695,Wet Hot American Summer,97,6.5,David Wain,Janeane Garofalo,"58,681",1800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+696,Bad Times at the El Royale,141,7.1,Drew Goddard,Jeff Bridges,"153,732",32000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+697,Phantom Thread,130,7.4,Paul Thomas Anderson,Vicky Krieps,"135,889",35000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+698,Men in Black 3,106,6.8,Barry Sonnenfeld,Will Smith,"368,557",90000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+699,Blacklight,104,4.8,Mark Williams,Liam Neeson,"19,927",43000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+700,The Secret Life of Walter Mitty,114,7.3,Ben Stiller,Ben Stiller,"322,675",90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+701,Dawn of the Dead,101,7.3,Zack Snyder,Sarah Polley,"259,525",26000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+702,Eden Lake,91,6.7,James Watkins,Kelly Reilly,"87,513",2000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+703,Samaritan,102,5.7,Julius Avery,Sylvester Stallone,"47,854",100000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+704,Sleeping Beauty,101,5.3,Julia Leigh,Emily Browning,"33,289",3000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+705,Incendies,131,8.3,Denis Villeneuve,Lubna Azabal,"180,646",6800000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+706,Lost in Translation,102,7.7,Sofia Coppola,Bill Murray,"461,337",4000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+707,Gone Baby Gone,114,7.6,Ben Affleck,Morgan Freeman,"276,947",19000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+708,Doctor Strange,115,7.5,Scott Derrickson,Benedict Cumberbatch,"752,869",200000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+709,Star Wars: Episode III - Revenge of the Sith,140,7.6,George Lucas,Hayden Christensen,"800,507",115000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+710,Desire,103,5.4,Laurent Bouhnik,Déborah Révy,"7,856",NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+711,The Princess and the Frog,97,7.1,Ron Clements,Anika Noni Rose,"150,105",105000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+712,Vanilla Sky,136,6.9,Cameron Crowe,Tom Cruise,"272,422",68000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+713,"Love, Rosie",102,7.1,Christian Ditter,Lily Collins,"144,655",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+714,The King's Speech,118,8,Tom Hooper,Colin Firth,"686,119",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+715,Nymphomaniac: Vol. II,124,6.6,Lars von Trier,Charlotte Gainsbourg,"94,232",4700000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+716,Sex and Lucía,128,7,Julio Medem,Paz Vega,"37,472",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+717,The Change-Up,112,6.3,David Dobkin,Jason Bateman,"186,892",52000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718,Knock Knock,99,4.9,Eli Roth,Keanu Reeves,"97,116",2500000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+719,Transformers: The Last Knight,154,5.2,Michael Bay,Mark Wahlberg,"155,452",217000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+720,Above Suspicion,104,5.7,Phillip Noyce,Emilia Clarke,"6,603",12000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+721,8 Mile,110,7.2,Curtis Hanson,Eminem,"296,569",41000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+722,Burnt,101,6.6,John Wells,Bradley Cooper,"122,725",20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+723,The Accountant,128,7.3,Gavin O'Connor,Ben Affleck,"300,683",44000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+724,Oldboy,104,5.8,Spike Lee,Josh Brolin,"77,495",30000000,1,6,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+725,Significant Other,84,5.7,Dan Berk,Maika Monroe,"7,704",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,EuroTrip,92,6.6,Jeff Schaffer,Scott Mechlowicz,"212,740",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+727,Juno,96,7.5,Jason Reitman,Elliot Page,"528,217",7500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+728,Bridge to Terabithia,96,7.2,Gabor Csupo,Josh Hutcherson,"161,306",17000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+729,Solo: A Star Wars Story,135,6.9,Ron Howard,Alden Ehrenreich,"353,773",275000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+730,Step Brothers,98,6.9,Adam McKay,Will Ferrell,"301,057",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,Ted,106,6.9,Seth MacFarlane,Mark Wahlberg,"622,393",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+732,The Equalizer 2,121,6.7,Antoine Fuqua,Denzel Washington,"164,674",62000000,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+733,Downfall,156,8.2,Oliver Hirschbiegel,Bruno Ganz,"358,928",14400000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+734,Bone Tomahawk,132,7.1,S. Craig Zahler,Kurt Russell,"105,201",1800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+735,Soul,100,8,Pete Docter,Jamie Foxx,"336,976",150000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+736,Seven Psychopaths,110,7.1,Martin McDonagh,Colin Farrell,"262,852",14000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+737,San Andreas,114,6.1,Brad Peyton,Dwayne Johnson,"242,440",110000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+738,Jurassic World: Fallen Kingdom,128,6.1,J.A. Bayona,Chris Pratt,"322,196",140000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+739,Mid90s,85,7.3,Jonah Hill,Sunny Suljic,"68,629",1700000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+740,The Old Guard,125,6.6,Gina Prince-Bythewood,Charlize Theron,"169,370",70000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+741,The Hunger Games: Mockingjay - Part 1,123,6.6,Francis Lawrence,Jennifer Lawrence,"462,830",125000000,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+742,Polar,118,6.3,Jonas Åkerlund,Mads Mikkelsen,"92,462",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+743,Argo,120,7.7,Ben Affleck,Ben Affleck,"619,594",44500000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+744,Despicable Me,95,7.6,Pierre Coffin,Steve Carell,"554,123",69000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+745,A Beautiful Day in the Neighborhood,109,7.2,Marielle Heller,Matthew Rhys,"82,555",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+746,Spectre,148,6.8,Sam Mendes,Daniel Craig,"446,338",200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+747,Night at the Museum,108,6.4,Shawn Levy,Ben Stiller,"355,679",110000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+748,Marry Me,112,6.1,Kat Coiro,Jennifer Lopez,"34,221",23000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+749,X-Men: Apocalypse,144,6.9,Bryan Singer,James McAvoy,"440,840",178000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+750,I Came By,110,6.1,Babak Anvari,Antonio Aakeel,"27,304",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+751,Predestination,97,7.4,Michael Spierig,Ethan Hawke,"287,604",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+752,Enough,115,5.7,Michael Apted,Jennifer Lopez,"44,992",50000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+753,Dodgeball: A True Underdog Story,92,6.7,Rawson Marshall Thurber,Ben Stiller,"254,666",20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+754,Fantastic Mr. Fox,87,7.9,Wes Anderson,George Clooney,"238,522",40000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+755,Old Henry,99,7.2,Potsy Ponciroli,Tim Blake Nelson,"28,199",1500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+756,Freaky,102,6.3,Christopher Landon,Vince Vaughn,"61,876",6000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+757,The Phantom of the Opera,143,7.2,Joel Schumacher,Gerard Butler,"125,207",70000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+758,Sahara,124,6,Breck Eisner,Matthew McConaughey,"99,675",160000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+759,Bombshell,109,6.8,Jay Roach,Charlize Theron,"118,068",32000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+760,Captain America: The Winter Soldier,136,7.8,Anthony Russo,Chris Evans,"854,956",170000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+761,Senior Year,111,5.5,Alex Hardcastle,Rebel Wilson,"39,363",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+762,Now You See Me 2,129,6.4,Jon M. Chu,Jesse Eisenberg,"297,009",120000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+763,Cinderella,105,6.9,Kenneth Branagh,Lily James,"180,337",95000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+764,Hot Fuzz,121,7.8,Edgar Wright,Simon Pegg,"511,531",14000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+765,10 Cloverfield Lane,103,7.2,Dan Trachtenberg,John Goodman,"334,658",15000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+766,Spider-Man: Far from Home,129,7.4,Jon Watts,Tom Holland,"503,030",160000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+767,The Favourite,119,7.5,Yorgos Lanthimos,Olivia Colman,"204,701",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+768,Sherlock Holmes,128,7.6,Guy Ritchie,Robert Downey Jr.,"641,536",90000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+769,Before Sunset,80,8.1,Richard Linklater,Ethan Hawke,"269,102",2700000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+770,Super 8,112,7,J.J. Abrams,Elle Fanning,"357,239",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+771,King Kong,187,7.2,Peter Jackson,Naomi Watts,"429,018",207000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+772,Spin Me Round,104,5.2,Jeff Baena,Alison Brie,"3,029",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+773,Spencer,117,6.6,Pablo Larraín,Kristen Stewart,"70,539",18000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+774,Dogtooth,97,7.2,Yorgos Lanthimos,Christos Stergioglou,"99,005",308000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+775,It Follows,100,6.8,David Robert Mitchell,Maika Monroe,"248,356",1300000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+776,Warcraft,123,6.7,Duncan Jones,Travis Fimmel,"267,569",160000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+777,The Da Vinci Code,149,6.6,Ron Howard,Tom Hanks,"439,060",125000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+778,Army of Thieves,127,6.4,Matthias Schweighöfer,Matthias Schweighöfer,"79,895",7000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+779,R.I.P.D. 2: Rise of the Damned,102,4.5,Paul Leyden,Jeffrey Donovan,"3,470",130000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+780,Fantastic Four,100,4.3,Josh Trank,Miles Teller,"169,739",120000000,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+781,Kong: Skull Island,118,6.6,Jordan Vogt-Roberts,Tom Hiddleston,"324,736",185000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+782,Something in the Dirt,116,5.9,Justin Benson,Aaron Moorhead,"3,033",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+783,The Greatest Beer Run Ever,126,6.8,Peter Farrelly,Zac Efron,"19,649",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+784,Movie 43,94,4.3,Elizabeth Banks,Emma Stone,"107,473",6000000,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+785,The Silencing,93,6.2,Robin Pront,Nikolaj Coster-Waldau,"27,016",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+786,Quantum of Solace,106,6.6,Marc Forster,Daniel Craig,"453,986",220000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+787,Knowing,121,6.2,Alex Proyas,Nicolas Cage,"237,584",50000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+788,Hustlers,110,6.3,Lorene Scafaria,Constance Wu,"102,479",20700000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+789,Mortal Kombat,110,6,Simon McQuoid,Lewis Tan,"177,281",55000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+790,Bumblebee,114,6.7,Travis Knight,Hailee Steinfeld,"170,097",135000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+791,Tomb Raider,119,6.3,Roar Uthaug,Alicia Vikander,"217,516",94000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+792,Greenland,119,6.4,Ric Roman Waugh,Gerard Butler,"120,718",35000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+793,The Princess Diaries,115,6.4,Garry Marshall,Julie Andrews,"150,720",26000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+794,Kiss Kiss Bang Bang,103,7.5,Shane Black,Robert Downey Jr.,"229,853",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+795,Iron Man 2,124,6.9,Jon Favreau,Robert Downey Jr.,"826,244",200000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+796,Zero Dark Thirty,157,7.4,Kathryn Bigelow,Jessica Chastain,"305,970",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+797,Pirates of the Caribbean: On Stranger Tides,136,6.6,Rob Marshall,Johnny Depp,"534,953",250000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+798,Kantara,148,8.3,Rishab Shetty,Rishab Shetty,"91,020",1940000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+799,The Fault in Our Stars,126,7.7,Josh Boone,Shailene Woodley,"382,444",12000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+800,American Sniper,133,7.3,Clint Eastwood,Bradley Cooper,"495,370",59000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+801,Venom: Let There Be Carnage,97,5.9,Andy Serkis,Tom Hardy,"230,257",110000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+802,The Other Guys,107,6.6,Adam McKay,Will Ferrell,"273,924",100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+803,Toy Story 3,103,8.3,Lee Unkrich,Tom Hanks,"843,897",200000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+804,The Road,111,7.2,John Hillcoat,Viggo Mortensen,"242,979",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+805,Sicario: Day of the Soldado,122,7,Stefano Sollima,Benicio Del Toro,"152,330",35000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+806,Antichrist,108,6.5,Lars von Trier,Willem Dafoe,"129,333",3400000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+807,Charlie's Angels,118,4.9,Elizabeth Banks,Kristen Stewart,"75,308",48000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+808,Persuasion,108,5.8,Carrie Cracknell,Richard E. Grant,"30,772",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+809,Through My Window,116,5.4,Marçal Forés,Clara Galle,"11,771",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+810,Hidden,84,6.4,Matt Duffer,Alexander Skarsgård,"22,803",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+811,Midnight in Paris,94,7.7,Woody Allen,Owen Wilson,"429,949",17000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+812,Alice in Wonderland,108,6.4,Tim Burton,Mia Wasikowska,"420,918",200000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+813,Collateral,120,7.5,Michael Mann,Tom Cruise,"411,064",65000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+814,Lightyear,105,6.1,Angus MacLane,Chris Evans,"109,175",200000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+815,American Made,115,7.1,Doug Liman,Tom Cruise,"189,832",50000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+816,Limitless,105,7.4,Neil Burger,Bradley Cooper,"581,881",27000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+817,Jeepers Creepers,90,6.2,Victor Salva,Gina Philips,"132,754",10000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+818,Reminiscence,116,5.9,Lisa Joy,Hugh Jackman,"58,040",54000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+819,District 9,112,7.9,Neill Blomkamp,Sharlto Copley,"688,619",30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+820,Pirates of the Caribbean: Dead Man's Chest,151,7.3,Gore Verbinski,Johnny Depp,"727,670",225000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+821,The Rental,88,5.7,Dave Franco,Dan Stevens,"33,837",3500000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+822,The Happening,91,5,M. Night Shyamalan,Mark Wahlberg,"209,977",48000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+823,Piranha 3D,88,5.5,Alexandre Aja,Elisabeth Shue,"93,050",24000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+824,RED,111,7,Robert Schwentke,Bruce Willis,"312,840",58000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+825,Jumper,88,6.1,Doug Liman,Hayden Christensen,"310,815",85000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+826,The Man from Toronto,110,5.8,Patrick Hughes,Kevin Hart,"50,977",75000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+827,Cloudy with a Chance of Meatballs,90,6.9,Phil Lord,Anna Faris,"238,911",100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+828,The Autopsy of Jane Doe,86,6.8,André Øvredal,Brian Cox,"122,835",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+829,The Lost Daughter,121,6.7,Maggie Gyllenhaal,Olivia Colman,"67,509",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+830,Enter the Void,161,7.2,Gaspar Noé,Nathaniel Brown,"82,530",13200000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+831,Malignant,111,6.2,James Wan,Annabelle Wallis,"94,341",40000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+832,The Incredible Hulk,112,6.6,Louis Leterrier,Edward Norton,"498,864",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+833,Emma.,124,6.7,Autumn de Wilde,Anya Taylor-Joy,"56,522",10000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+834,The Command,117,6.6,Thomas Vinterberg,Matthias Schoenaerts,"19,707",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+835,Cloverfield,85,7,Matt Reeves,Mike Vogel,"404,519",25000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+836,Contagion,106,6.8,Steven Soderbergh,Matt Damon,"306,700",60000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+837,Lucy,89,6.4,Luc Besson,Scarlett Johansson,"504,387",40000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+838,Men in Black II,88,6.1,Barry Sonnenfeld,Tommy Lee Jones,"381,605",140000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+839,Cloud Atlas,172,7.4,Tom Tykwer,Tom Hanks,"365,342",128000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+840,Evil Dead,91,6.5,Fede Alvarez,Jane Levy,"176,691",17000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+841,Pitch Perfect 2,115,6.4,Elizabeth Banks,Anna Kendrick,"160,531",30000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+842,Dallas Buyers Club,117,7.9,Jean-Marc Vallée,Matthew McConaughey,"494,593",5000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+843,Daddy Day Care,92,5.6,Steve Carr,Eddie Murphy,"70,573",60000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+844,Those Who Wish Me Dead,100,6,Taylor Sheridan,Angelina Jolie,"63,499",20000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+845,Man on Fire,146,7.7,Tony Scott,Denzel Washington,"368,111",70000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+846,Mission: Impossible III,126,6.9,J.J. Abrams,Tom Cruise,"362,148",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+847,Shortbus,101,6.4,John Cameron Mitchell,Sook-Yin Lee,"34,199",2000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+848,Trolls,92,6.4,Mike Mitchell,Anna Kendrick,"84,351",125000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+849,"I, Tonya",119,7.5,Craig Gillespie,Margot Robbie,"222,714",11000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+850,Extraction,116,6.7,Sam Hargrave,Chris Hemsworth,"208,258",69000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+851,Side Effects,106,7.1,Steven Soderbergh,Rooney Mara,"191,833",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+852,Chicago,113,7.2,Rob Marshall,Renée Zellweger,"233,364",45000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+853,The Lego Movie,100,7.7,Phil Lord,Chris Pratt,"361,656",99000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+854,Molly's Game,140,7.4,Aaron Sorkin,Jessica Chastain,"176,457",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+855,Boyhood,165,7.9,Richard Linklater,Ellar Coltrane,"357,654",4000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+856,Finch,115,6.9,Miguel Sapochnik,Tom Hanks,"85,694",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+857,Rocky Balboa,102,7.1,Sylvester Stallone,Sylvester Stallone,"219,952",24000000,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+858,Raw,99,7,Julia Ducournau,Garance Marillier,"80,813",3800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+859,The Hate U Give,133,7.5,George Tillman Jr.,Amandla Stenberg,"37,455",23000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+860,Enemy,91,6.9,Denis Villeneuve,Jake Gyllenhaal,"198,574",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+861,Anna,118,6.6,Luc Besson,Sasha Luss,"85,312",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+862,Venom,112,6.6,Ruben Fleischer,Tom Hardy,"494,267",110000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+863,Five Feet Apart,116,7.2,Justin Baldoni,Haley Lu Richardson,"70,832",7000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+864,Flight,138,7.3,Robert Zemeckis,Denzel Washington,"359,281",31000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+865,Spy,120,7,Paul Feig,Melissa McCarthy,"248,136",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+866,Holes,117,7,Andrew Davis,Shia LaBeouf,"92,094",20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+867,9 Songs,71,4.8,Michael Winterbottom,Kieran O'Brien,"23,091",1200000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+868,Curiosa,107,5.4,Lou Jeunet,Noémie Merlant,"2,655",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+869,The Assassination of Jesse James by the Coward Robert Ford,160,7.5,Andrew Dominik,Brad Pitt,"185,034",30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+870,Father of the Bride,117,5.9,Gary Alazraki,Andy Garcia,"10,926",20000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+871,Talladega Nights: The Ballad of Ricky Bobby,108,6.6,Adam McKay,Will Ferrell,"188,647",72500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+872,I Saw the Devil,144,7.8,Jee-woon Kim,Lee Byung-hun,"134,054",6000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+873,Coraline,100,7.7,Henry Selick,Dakota Fanning,"236,996",60000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+874,ATM,90,4.7,David Brooks,Alice Eve,"24,337",3000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+875,The Wrong Missy,90,5.7,Tyler Spindel,David Spade,"41,246",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+876,Shame,101,7.2,Steve McQueen,Michael Fassbender,"198,690",6500000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+877,Chef,114,7.3,Jon Favreau,Jon Favreau,"219,825",11000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+878,Jerry and Marge Go Large,96,6.9,David Frankel,Bryan Cranston,"14,755",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+879,The Amazing Spider-Man,136,6.9,Marc Webb,Andrew Garfield,"663,926",230000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+880,Fractured,99,6.4,Brad Anderson,Sam Worthington,"79,221",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+881,About Fate,103,6.3,Marius Vaysberg,Emma Roberts,"7,147",15000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+882,28 Weeks Later,100,6.9,Juan Carlos Fresnadillo,Jeremy Renner,"280,683",15000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+883,The Last Samurai,154,7.8,Edward Zwick,Tom Cruise,"447,016",140000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+884,Searching,102,7.6,Aneesh Chaganty,John Cho,"166,979",880000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+885,Transformers: Age of Extinction,165,5.6,Michael Bay,Mark Wahlberg,"318,065",210000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+886,We Can Be Heroes,100,4.7,Robert Rodriguez,YaYa Gosselin,"15,503",20000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+887,Force Majeure,120,7.2,Ruben Östlund,Johannes Kuhnke,"59,914",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+888,Looper,119,7.4,Rian Johnson,Joseph Gordon-Levitt,"582,344",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+889,Wrong Turn,84,6.1,Rob Schmidt,Eliza Dushku,"123,573",4000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+890,The Midnight Sky,118,5.6,George Clooney,George Clooney,"85,023",100000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+891,American Gangster,157,7.8,Ridley Scott,Denzel Washington,"431,739",100000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+892,The Count of Monte Cristo,131,7.7,Kevin Reynolds,Jim Caviezel,"140,533",35000000,0,8,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+893,Leap Year,100,6.4,Anand Tucker,Amy Adams,"106,635",19000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+894,The 355,122,5.5,Simon Kinberg,Jessica Chastain,"31,362",75000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+895,Flushed Away,85,6.6,David Bowers,Hugh Jackman,"129,729",149000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+896,Daredevil,103,5.3,Mark Steven Johnson,Ben Affleck,"222,559",78000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+897,Bad Boys II,147,6.6,Michael Bay,Will Smith,"255,459",130000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+898,Shaun of the Dead,99,7.9,Edgar Wright,Simon Pegg,"564,800",6100000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+899,Queen of Hearts,127,7.1,May el-Toukhy,Trine Dyrholm,"12,215",19000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+900,School of Rock,109,7.2,Richard Linklater,Jack Black,"311,880",35000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+901,Lincoln,150,7.3,Steven Spielberg,Daniel Day-Lewis,"263,529",65000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902,Capernaum,126,8.4,Nadine Labaki,Zain Al Rafeea,"92,410",4000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+903,Gravity,91,7.7,Alfonso Cuarón,Sandra Bullock,"833,803",100000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+904,The Twilight Saga: Breaking Dawn - Part 2,115,5.5,Bill Condon,Kristen Stewart,"252,415",136000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+905,A Simple Favor,117,6.8,Paul Feig,Anna Kendrick,"152,397",20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+906,Climax,97,6.9,Gaspar Noé,Sofia Boutella,"71,422",2900000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+907,Snowpiercer,126,7.1,Bong Joon Ho,Chris Evans,"366,826",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+908,Star Wars: Episode II - Attack of the Clones,142,6.6,George Lucas,Hayden Christensen,"719,506",115000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+909,Luck,105,6.4,Peggy Holmes,Eva Noblezada,"20,929",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+910,Scary Movie 2,83,5.3,Keenen Ivory Wayans,Anna Faris,"165,189",45000000,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+911,The Dictator,83,6.4,Larry Charles,Sacha Baron Cohen,"313,766",65000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+912,Hairspray,117,6.7,Adam Shankman,John Travolta,"132,948",75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+913,The Gift,108,7,Joel Edgerton,Jason Bateman,"161,849",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+914,Broker,129,7.1,Hirokazu Koreeda,Song Kang-ho,"8,764",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+915,Lone Survivor,121,7.5,Peter Berg,Mark Wahlberg,"292,196",40000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+916,Midway,138,6.7,Roland Emmerich,Ed Skrein,"87,985",100000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+917,Sucker Punch,110,6,Zack Snyder,Emily Browning,"245,218",82000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+918,The Post,116,7.2,Steven Spielberg,Meryl Streep,"154,243",50000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+919,The Green Knight,130,6.6,David Lowery,Dev Patel,"103,977",15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+920,Godzilla,123,6.4,Gareth Edwards,Aaron Taylor-Johnson,"418,680",160000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+921,Olympus Has Fallen,119,6.5,Antoine Fuqua,Gerard Butler,"280,641",70000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+922,Safe Haven,115,6.6,Lasse Hallström,Julianne Hough,"112,380",28000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+923,Melancholia,135,7.1,Lars von Trier,Kirsten Dunst,"186,114",9400000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+924,Luca,95,7.4,Enrico Casarosa,Jacob Tremblay,"168,167",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+925,Life of Pi,127,7.9,Ang Lee,Suraj Sharma,"638,226",120000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+926,The Machinist,101,7.7,Brad Anderson,Christian Bale,"396,169",5000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+927,Logan Lucky,118,7,Steven Soderbergh,Channing Tatum,"153,202",29000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+928,"Confess, Fletch",98,6.5,Greg Mottola,Jon Hamm,"11,188",20000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+929,Greyhound,91,7,Aaron Schneider,Tom Hanks,"100,490",50300000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+930,Pacific Rim,131,6.9,Guillermo del Toro,Idris Elba,"508,074",190000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+931,Kate,106,6.2,Cedric Nicolas-Troyan,Mary Elizabeth Winstead,"63,966",25000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+932,Arctic,98,6.8,Joe Penna,Mads Mikkelsen,"54,429",2000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+933,Coach Carter,136,7.3,Thomas Carter,Samuel L. Jackson,"154,971",30000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+934,Layer Cake,105,7.3,Matthew Vaughn,Daniel Craig,"185,993",4800000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+935,13 Going on 30,98,6.2,Gary Winick,Jennifer Garner,"197,670",37000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+936,Hunter Killer,121,6.6,Donovan Marsh,Gerard Butler,"65,687",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+937,Kung Fu Panda 3,95,7.1,Alessandro Carloni,Jack Black,"164,933",145000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+938,Slumdog Millionaire,120,8,Danny Boyle,Dev Patel,"851,891",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+939,Me Time,101,5.1,John Hamburg,Kevin Hart,"35,001",80000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+940,Mr. & Mrs. Smith,120,6.5,Doug Liman,Brad Pitt,"504,648",110000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+941,The Conjuring 2,134,7.3,James Wan,Vera Farmiga,"276,658",40000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+942,Trespass,91,5.3,Joel Schumacher,Nicolas Cage,"44,031",35000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+943,Spanglish,131,6.4,James L. Brooks,Adam Sandler,"85,518",80000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+944,Shot Caller,121,7.3,Ric Roman Waugh,Nikolaj Coster-Waldau,"89,085",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+945,Ice Age,81,7.5,Chris Wedge,Denis Leary,"490,118",59000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+946,Booksmart,102,7.1,Olivia Wilde,Kaitlyn Dever,"122,303",6000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+947,Fallen,91,5.2,Scott Hicks,Leo Suter,"15,225",46000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+948,The Conjuring: The Devil Made Me Do It,112,6.3,Michael Chaves,Patrick Wilson,"119,859",39000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+949,The Book of Eli,118,6.8,Albert Hughes,Denzel Washington,"323,116",80000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+950,Jungle Cruise,127,6.6,Jaume Collet-Serra,Dwayne Johnson,"195,465",200000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+951,Sinister,110,6.8,Scott Derrickson,Ethan Hawke,"258,719",3000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+952,Madagascar,86,6.9,Eric Darnell,Chris Rock,"411,302",75000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+953,True Grit,110,7.6,Ethan Coen,Jeff Bridges,"343,650",38000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+954,The Wandering Earth,125,5.9,Frant Gwo,Jing Wu,"32,665",50000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+955,Rush,123,8.1,Ron Howard,Daniel Brühl,"485,244",38000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+956,The Peanut Butter Falcon,97,7.6,Tyler Nilson,Zack Gottsagen,"92,377",6200000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+957,Before Midnight,109,7.9,Richard Linklater,Ethan Hawke,"161,707",3000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+958,Raya and the Last Dragon,107,7.3,Don Hall,Kelly Marie Tran,"155,787",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+959,The Lincoln Lawyer,118,7.3,Brad Furman,Matthew McConaughey,"242,101",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+960,Pokémon: Detective Pikachu,104,6.5,Rob Letterman,Ryan Reynolds,"167,126",150000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+961,War Dogs,114,7.1,Todd Phillips,Jonah Hill,"226,238",50000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+962,Lilo & Stitch,85,7.3,Dean DeBlois,Daveigh Chase,"195,506",80000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+963,Godzilla: King of the Monsters,132,6,Michael Dougherty,Kyle Chandler,"186,853",170000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+964,Ava,96,5.4,Tate Taylor,Jessica Chastain,"57,907",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+965,Things Heard & Seen,121,5.3,Shari Springer Berman,Amanda Seyfried,"32,740",NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966,Spy Kids,88,5.6,Robert Rodriguez,Alexa PenaVega,"120,146",35000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+967,Savages,131,6.4,Oliver Stone,Aaron Taylor-Johnson,"131,620",45000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+968,A Cure for Wellness,146,6.4,Gore Verbinski,Dane DeHaan,"101,873",40000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+969,Sunshine,107,7.2,Danny Boyle,Cillian Murphy,"254,184",40000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+970,The Family,111,6.3,Luc Besson,Robert De Niro,"118,525",30000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+971,Wrong Turn,109,5.5,Mike P. Nelson,Charlotte Vega,"32,492",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+972,Soft & Quiet,91,6.3,Beth de Araújo,Stefanie Estes,"3,283",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+973,Million Dollar Baby,132,8.1,Clint Eastwood,Hilary Swank,"693,009",30000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+974,Escape Room,99,6.4,Adam Robitel,Taylor Russell,"126,561",9000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+975,Bhediya,156,7.3,Amar Kaushik,Varun Dhawan,"14,500",NA,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+976,The Mummy: Tomb of the Dragon Emperor,112,5.2,Rob Cohen,Brendan Fraser,"163,933",145000000,1,5,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+977,Clerks III,100,6.3,Kevin Smith,Brian O'Halloran,"11,777",7000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+978,42,128,7.5,Brian Helgeland,Chadwick Boseman,"97,301",40000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+979,Spider-Man 3,139,6.3,Sam Raimi,Tobey Maguire,"599,005",250000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+980,The Hurt Locker,131,7.5,Kathryn Bigelow,Jeremy Renner,"456,773",15000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+981,Boiling Point,92,7.5,Philip Barantini,Stephen Graham,"30,753",NA,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+982,Red Dragon,124,7.2,Brett Ratner,Anthony Hopkins,"277,929",78000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+983,Downsizing,135,5.8,Alexander Payne,Matt Damon,"113,830",68000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+984,Thor: The Dark World,112,6.8,Alan Taylor,Chris Hemsworth,"690,797",150000000,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+985,"tick, tick... BOOM!",120,7.5,Lin-Manuel Miranda,Andrew Garfield,"108,998",55000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+986,The Kid Detective,100,7,Evan Morgan,Kaitlyn Chalmers-Rizzato,"19,999",3000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+987,The Dead Don't Die,104,5.4,Jim Jarmusch,Bill Murray,"80,690",2500000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+988,Below Her Mouth,94,5.5,April Mullen,Erika Linder,"13,050",NA,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+989,Shrek the Third,93,6.1,Chris Miller,Mike Myers,"313,739",160000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+990,Incredibles 2,118,7.6,Brad Bird,Craig T. Nelson,"303,061",200000000,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+991,My Big Fat Greek Wedding,95,6.6,Joel Zwick,Nia Vardalos,"135,013",5000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+992,Upgrade,100,7.5,Leigh Whannell,Logan Marshall-Green,"189,674",3000000,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+993,Haunt,92,6.3,Scott Beck,Katie Stevens,"30,974",5000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+994,Hitman's Wife's Bodyguard,100,6.1,Patrick Hughes,Ryan Reynolds,"96,399",70000000,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+995,Sex Tape,94,5.1,Jake Kasdan,Jason Segel,"114,196",40000000,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+996,Hostiles,134,7.2,Scott Cooper,Scott Shepherd,"88,206",39000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+997,The Neon Demon,117,6.1,Nicolas Winding Refn,Elle Fanning,"98,127",7000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+998,In the Shadow of the Moon,115,6.2,Jim Mickle,Boyd Holbrook,"55,090",2000000,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+999,Black Snake Moan,116,6.9,Craig Brewer,Christina Ricci,"64,722",15000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1000,Sonic the Hedgehog,99,6.5,Jeff Fowler,Ben Schwartz,"143,291",90000000,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

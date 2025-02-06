@@ -1,0 +1,90 @@
+---
+title: "Capstone modeling cleaning"
+author: "Danielle Contreras"
+date: "2023-04-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(dplyr)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+data <- read.csv("C:\\Users\\danie\\Downloads\\472\\imdb_data_22.csv")
+new_data <- read.csv("C:\\Users\\danie\\Downloads\\test_data - newmovie_data.csv")
+na.omit(data)
+
+data$Director <- as.factor(data$Director)
+data$Lead <- as.factor(data$Lead)
+
+data <- data %>% group_by(Director) %>% mutate(num_dir = n()) %>% filter(num_dir >= 3)
+data <- data %>% group_by(Lead) %>% mutate(num_lea = n()) %>% filter(num_lea >= 2) %>% ungroup()
+
+data <- data %>%
+ mutate(across(30:31, round, 1))
+data <- data %>% 
+  mutate_at(4:23, as.factor) %>%
+  mutate_at(29, as.factor) %>%
+  mutate(Budget = Budget/1000000)
+
+modeling_data_nume <- data %>%
+  select(Runtime, Rating, Budget, Sequel, Avg_rating_director, Avg_rating_lead)
+
+cols <- c(12:31) 
+new_data <- new_data %>%
+  mutate(Budget = Budget/1000000)
+  
+names(new_data)[names(new_data) == 'Dir_avg'] <- 'Avg_rating_director'
+names(new_data)[names(new_data) == 'Lead_avg'] <- 'Avg_rating_lead'
+
+new_data$Sequel <- as.factor(new_data$Sequel)
+
+test_data <- new_data %>%
+  select(Title, Rating, Runtime, Sequel, Budget, Avg_rating_director, Avg_rating_lead)
+
+modeling_data_nume <- modeling_data_nume %>% mutate_if(is.numeric, round, 1)  
+test_data <- test_data %>% mutate_if(is.numeric, round, 1) 
+
+data_reg <- modeling_data_nume
+rating_outcome <- data_reg %>% select(Rating)
+rating_test <- test_data %>% select(Rating)
+
+test_data_new <- test_data %>% select(-Title, -Sequel, -Rating)
+data_reg <- data_reg %>% select(Runtime, Budget, Avg_rating_director, Avg_rating_lead)
+
+```
+
+```{r}
+library(FNN)
+library(caret)
+data_reg <- as.data.frame(data_reg)
+test_data_new <- as.data.frame(test_data_new)
+rating_outcome <- as.data.frame(rating_outcome)
+reg_results <- knn.reg(data_reg, test_data_new, rating_outcome, k = 20)
+rmse_test <- sqrt(mean((reg_results$pred - rating_test$Rating)^2))
+cat('Testing RMSE:' , rmse_test)
+
+reg_results_pred <- reg_results$pred
+reg_results_pred <- as.data.frame(reg_results_pred)
+
+reg_results_pred <- round(reg_results_pred, 1)
+
+
+
+test_sele <- test_data %>%
+  select(Title, Rating)
+prediction_table <- cbind(test_sele, reg_results_pred)
+names(prediction_table)[names(prediction_table) == 'reg_results_pred'] <- 'Prediction'
+
+prediction_table
+
+```
+

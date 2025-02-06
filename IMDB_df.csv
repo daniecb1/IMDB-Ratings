@@ -1,0 +1,251 @@
+ID,Rank,Title,Runtime,Genre,Rating,Director,Lead,Votes
+1,1,Babylon,189,Comedy,7.3,Damien Chazelle,Brad Pitt,216
+2,2,Black Panther: Wakanda Forever,161,Action,6.8,Ryan Coogler,Letitia Wright,71
+3,3,Avatar: The Way of Water,192,Action,7.8,James Cameron,Sam Worthington,96
+4,4,The Menu,107,Horror,7.2,Mark Mylod,Ralph Fiennes,81
+5,5,The Banshees of Inisherin,114,Comedy,7.8,Martin McDonagh,Colin Farrell,40
+6,6,Everything Everywhere All at Once,139,Action,8,Dan Kwan,Michelle Yeoh,106
+7,7,Puss in Boots: The Last Wish,102,Animation,7.9,Joel Crawford,Antonio Banderas,230
+8,8,White Noise,136,Comedy,5.7,Noah Baumbach,Adam Driver,104
+9,9,The Whale,117,Drama,8,Darren Aronofsky,Brendan Fraser,98
+10,10,The Fabelmans,151,Drama,7.6,Steven Spielberg,Michelle Williams,174
+11,11,Tár,158,Drama,7.5,Todd Field,Cate Blanchett,135
+12,12,M3GAN,102,Horror,6.4,Gerard Johnstone,Allison Williams,200
+13,13,Bullet Train,127,Action,7.3,David Leitch,Brad Pitt,93
+14,14,Triangle of Sadness,147,Comedy,7.4,Ruben Östlund,Charlbi Dean,235
+15,15,Top Gun: Maverick,130,Action,8.3,Joseph Kosinski,Tom Cruise,163
+16,16,Glass Onion,139,Comedy,7.2,Rian Johnson,Daniel Craig,110
+17,17,Shotgun Wedding,100,Action,5.4,Jason Moore,Jennifer Lopez,78
+18,18,A Man Called Otto,126,Comedy,7.6,Marc Forster,Tom Hanks,53
+19,19,All Quiet on the Western Front,148,Action,7.8,Edward Berger,Felix Kammerer,43
+20,20,Aftersun,102,Drama,7.7,Charlotte Wells,Paul Mescal,122
+21,21,X,105,Horror,6.6,Ti West,Mia Goth,25
+22,22,The Son,123,Drama,6.1,Florian Zeller,Vanessa Kirby,94
+23,23,Magic Mike,110,Comedy,6.1,Steven Soderbergh,Channing Tatum,41
+24,24,The Pale Blue Eye,128,Crime,6.6,Scott Cooper,Christian Bale,236
+25,25,Ant-Man,117,Action,7.3,Peyton Reed,Paul Rudd,208
+26,26,Harry Potter and the Sorcerer's Stone,152,Adventure,7.6,Chris Columbus,Daniel Radcliffe,224
+27,27,Women Talking,104,Drama,7.5,Sarah Polley,Rooney Mara,152
+28,28,Empire of Light,115,Drama,6.6,Sam Mendes,Olivia Colman,226
+29,29,The Batman,176,Action,7.8,Matt Reeves,Robert Pattinson,206
+30,30,Elvis,159,Biography,7.3,Baz Luhrmann,Tom Hanks,59
+31,31,Ant-Man and the Wasp,118,Action,7,Peyton Reed,Paul Rudd,136
+32,32,The Woman King,135,Action,6.7,Gina Prince-Bythewood,Viola Davis,154
+33,33,Don't Worry Darling,123,Drama,6.2,Olivia Wilde,Florence Pugh,22
+34,34,The VelociPastor,75,Action,5,Brendan Steere,Greg Cohan,184
+35,35,Amsterdam,134,Comedy,6.1,David O. Russell,Christian Bale,203
+36,36,Avatar,162,Action,7.9,James Cameron,Sam Worthington,9
+37,37,Interstellar,169,Adventure,8.6,Christopher Nolan,Matthew McConaughey,19
+38,38,Once Upon a Time in Hollywood,161,Comedy,7.6,Quentin Tarantino,Leonardo DiCaprio,219
+39,39,Where the Crawdads Sing,125,Drama,7.2,Olivia Newman,Daisy Edgar-Jones,232
+40,40,Barbarian,102,Horror,7,Zach Cregger,Georgina Campbell,34
+41,41,Black Adam,125,Action,6.4,Jaume Collet-Serra,Dwayne Johnson,76
+42,42,Legally Blonde,96,Comedy,6.4,Robert Luketic,Reese Witherspoon,75
+43,43,Knives Out,130,Comedy,7.9,Rian Johnson,Daniel Craig,215
+44,44,Love,135,Drama,6.1,Gaspar Noé,Aomi Muyock,186
+45,45,Black Panther,134,Action,7.3,Ryan Coogler,Chadwick Boseman,223
+46,46,"Lyle, Lyle, Crocodile",106,Animation,6.1,Josh Gordon,Javier Bardem,227
+47,47,Thor: Love and Thunder,118,Action,6.3,Taika Waititi,Chris Hemsworth,112
+48,48,Magic Mike XXL,115,Comedy,5.6,Gregory Jacobs,Channing Tatum,173
+49,49,Valentine's Day,125,Comedy,5.7,Garry Marshall,Julia Roberts,28
+50,50,Jurassic World: Dominion,147,Action,5.6,Colin Trevorrow,Chris Pratt,54
+51,51,Dune,155,Action,8,Denis Villeneuve,Timothée Chalamet,201
+52,52,Smile,115,Horror,6.6,Parker Finn,Sosie Bacon,23
+53,53,Whitney Houston: I Wanna Dance with Somebody,144,Biography,6.7,Kasi Lemmons,Naomi Ackie,241
+54,54,Pearl,103,Horror,7,Ti West,Mia Goth,144
+55,55,Guillermo del Toro's Pinocchio,117,Animation,7.6,Guillermo del Toro,Ewan McGregor,231
+56,56,The Lord of the Rings: The Fellowship of the Ring,178,Action,8.8,Peter Jackson,Elijah Wood,20
+57,57,Avengers: Endgame,181,Action,8.4,Anthony Russo,Robert Downey Jr.,6
+58,58,"Alice, Darling",89,Drama,5.4,Mary Nighy,Anna Kendrick,95
+59,59,Bones and All,131,Drama,6.9,Luca Guadagnino,Timothée Chalamet,111
+60,60,Skinamarink,100,Horror,5.1,Kyle Edward Ball,Lucas Paul,213
+61,61,The Northman,137,Action,7.1,Robert Eggers,Alexander Skarsgård,72
+62,62,F9: The Fast Saga,143,Action,5.2,Justin Lin,Vin Diesel,36
+63,63,Fall,107,Thriller,6.4,Scott Mann,Grace Caroline Currey,172
+64,64,Spider-Man: No Way Home,148,Action,8.2,Jon Watts,Tom Holland,221
+65,65,The Notebook,123,Drama,7.8,Nick Cassavetes,Gena Rowlands,175
+66,66,Nope,130,Horror,6.9,Jordan Peele,Daniel Kaluuya,64
+67,67,The Unbearable Weight of Massive Talent,107,Action,7,Tom Gormican,Nicolas Cage,246
+68,68,The Wolf of Wall Street,180,Biography,8.2,Martin Scorsese,Leonardo DiCaprio,13
+69,69,Joker,122,Crime,8.4,Todd Phillips,Joaquin Phoenix,8
+70,70,Close,104,Drama,7.9,Lukas Dhont,Eden Dambrine,21
+71,71,The Departed,151,Crime,8.5,Martin Scorsese,Leonardo DiCaprio,11
+72,72,To Leslie,119,Drama,7.1,Michael Morris,Andrea Riseborough,153
+73,73,Devotion,139,Action,6.6,J.D. Dillard,Jonathan Majors,46
+74,74,John Wick,101,Action,7.4,Chad Stahelski,Keanu Reeves,197
+75,75,Roald Dahl's Matilda the Musical,117,Comedy,7.1,Matthew Warchus,Alisha Weir,62
+76,76,Ticket to Paradise,104,Comedy,6.2,Ol Parker,George Clooney,134
+77,77,The Hunger Games,142,Action,7.2,Gary Ross,Jennifer Lawrence,245
+78,78,Black Swan,108,Drama,8,Darren Aronofsky,Natalie Portman,222
+79,79,Whiplash,106,Drama,8.5,Damien Chazelle,Miles Teller,237
+80,80,Hereditary,127,Drama,7.3,Ari Aster,Toni Collette,103
+81,81,Scream,114,Horror,6.3,Matt Bettinelli-Olpin,Melissa Barrera,27
+82,82,The Help,146,Drama,8.1,Tate Taylor,Viola Davis,147
+83,83,RRR,187,Action,7.9,S.S. Rajamouli,N.T. Rama Rao Jr.,35
+84,84,Viking Wolf,97,Horror,5.1,Stig Svendsen,Liv Mjönes,127
+85,85,Nobody,92,Action,7.4,Ilya Naishuller,Bob Odenkirk,85
+86,86,The Black Phone,103,Horror,6.9,Scott Derrickson,Mason Thames,49
+87,87,The Gray Man,122,Action,6.5,Anthony Russo,Ryan Gosling,65
+88,88,Rosaline,95,Comedy,6.4,Karen Maine,Kaitlyn Dever,214
+89,89,Midsommar,148,Drama,7.1,Ari Aster,Florence Pugh,108
+90,90,Infinite,106,Action,5.4,Antoine Fuqua,Mark Wahlberg,162
+91,91,Edge of Tomorrow,113,Action,7.9,Doug Liman,Tom Cruise,210
+92,92,Vengeance,107,Comedy,6.8,B.J. Novak,B.J. Novak,79
+93,93,Harry Potter and the Goblet of Fire,157,Adventure,7.7,Mike Newell,Daniel Radcliffe,193
+94,94,Blonde,167,Biography,5.5,Andrew Dominik,Ana de Armas,185
+95,95,Parasite,132,Drama,8.5,Bong Joon Ho,Song Kang-ho,234
+96,96,Decision to Leave,139,Crime,7.3,Park Chan-wook,Park Hae-il,105
+97,97,The Gentlemen,113,Action,7.8,Guy Ritchie,Matthew McConaughey,113
+98,98,Irreversible,97,Crime,7.3,Gaspar Noé,Monica Bellucci,37
+99,99,Blade Runner 2049,164,Action,8,Denis Villeneuve,Harrison Ford,177
+100,100,Don't Look Up,138,Comedy,7.2,Adam McKay,Leonardo DiCaprio,166
+101,101,La La Land,128,Comedy,8,Damien Chazelle,Ryan Gosling,187
+102,102,Fifty Shades of Grey,125,Drama,4.2,Sam Taylor-Johnson,Dakota Johnson,102
+103,103,Inglourious Basterds,153,Adventure,8.3,Quentin Tarantino,Brad Pitt,14
+104,104,Django Unchained,165,Drama,8.4,Quentin Tarantino,Jamie Foxx,15
+105,105,Eternal Sunshine of the Spotless Mind,108,Drama,8.3,Michel Gondry,Jim Carrey,2
+106,106,Harry Potter and the Prisoner of Azkaban,142,Adventure,7.9,Alfonso Cuarón,Daniel Radcliffe,195
+107,107,Living,102,Drama,7.5,Oliver Hermanus,Bill Nighy,128
+108,108,2 Guns,109,Action,6.7,Baltasar Kormákur,Denzel Washington,69
+109,109,Girl in the Basement,88,Crime,6.3,Elisabeth Röhm,Judd Nelson,229
+110,110,Harry Potter and the Deathly Hallows: Part 2,130,Adventure,8.1,David Yates,Daniel Radcliffe,238
+111,111,Narvik: Hitler's First Defeat,108,Drama,6.6,Erik Skjoldbjærg,Billy Campbell,240
+112,112,Violent Night,112,Action,6.7,Tommy Wirkola,David Harbour,190
+113,113,Scott Pilgrim vs. the World,112,Action,7.5,Edgar Wright,Michael Cera,140
+114,114,Harry Potter and the Chamber of Secrets,161,Adventure,7.4,Chris Columbus,Daniel Radcliffe,198
+115,115,Guardians of the Galaxy,121,Action,8,James Gunn,Chris Pratt,7
+116,116,Puss in Boots,90,Animation,6.6,Chris Miller,Antonio Banderas,55
+117,117,Prisoners,153,Crime,8.1,Denis Villeneuve,Hugh Jackman,218
+118,118,The Suicide Squad,132,Action,7.2,James Gunn,Margot Robbie,119
+119,119,Pride & Prejudice,129,Drama,7.8,Joe Wright,Keira Knightley,97
+120,120,Birdman or (The Unexpected Virtue of Ignorance),119,Comedy,7.7,Alejandro G. Iñárritu,Michael Keaton,194
+121,121,Doctor Strange in the Multiverse of Madness,126,Action,6.9,Sam Raimi,Benedict Cumberbatch,139
+122,122,Beast,93,Action,5.6,Baltasar Kormákur,Liyabuya Gongo,88
+123,123,Strange World,102,Animation,5.6,Don Hall,Jake Gyllenhaal,114
+124,124,Gone Girl,149,Drama,8.1,David Fincher,Ben Affleck,248
+125,125,Uncharted,116,Action,6.3,Ruben Fleischer,Tom Holland,73
+126,126,Catch Me If You Can,141,Biography,8.1,Steven Spielberg,Leonardo DiCaprio,249
+127,127,Hidden Figures,127,Biography,7.8,Theodore Melfi,Taraji P. Henson,80
+128,128,Fantastic Beasts: The Secrets of Dumbledore,142,Adventure,6.2,David Yates,Eddie Redmayne,44
+129,129,This Is 40,134,Comedy,6.2,Judd Apatow,Paul Rudd,42
+130,130,Shutter Island,138,Mystery,8.2,Martin Scorsese,Leonardo DiCaprio,10
+131,131,About Time,123,Comedy,7.8,Richard Curtis,Domhnall Gleeson,118
+132,132,Piggy,99,Drama,6.2,Carlota Pereda,Laura Galán,182
+133,133,The Beasts,137,Drama,7.5,Rodrigo Sorogoyen,Marina Foïs,183
+134,134,Encanto,102,Animation,7.2,Jared Bush,Stephanie Beatriz,77
+135,135,Superbad,113,Comedy,7.6,Greg Mottola,Michael Cera,178
+136,136,Creed,133,Action,7.6,Ryan Coogler,Michael B. Jordan,87
+137,137,Eternals,156,Action,6.3,Chloé Zhao,Gemma Chan,113
+138,138,The Lord of the Rings: The Return of the King,201,Action,9,Peter Jackson,Elijah Wood,18
+139,139,No Time to Die,163,Action,7.3,Cary Joji Fukunaga,Daniel Craig,133
+140,140,Death on the Nile,127,Crime,6.3,Kenneth Branagh,Tom Bateman,51
+141,141,She Said,129,Drama,7.2,Maria Schrader,Lola Petticrew,66
+142,142,Get Out,104,Horror,7.7,Jordan Peele,Daniel Kaluuya,192
+143,143,The Prestige,130,Drama,8.5,Christopher Nolan,Christian Bale,12
+144,144,Lady Chatterley's Lover,126,Drama,6.6,Laure de Clermont-Tonnerre,Emma Corrin,52
+145,145,Jeepers Creepers: Reborn,88,Horror,2.5,Timo Vuorensola,Sydney Craven,243
+146,146,Pleasure,109,Drama,6.4,Ninja Thyberg,Sofia Kappel,58
+147,147,The Founder,115,Biography,7.2,John Lee Hancock,Michael Keaton,50
+148,148,Causeway,94,Drama,6.6,Lila Neugebauer,Jennifer Lawrence,39
+149,149,Old,108,Drama,5.8,M. Night Shyamalan,Gael García Bernal,31
+150,150,Terrifier 2,138,Horror,6.2,Damien Leone,Lauren LaVera,91
+151,151,No Country for Old Men,122,Crime,8.2,Ethan Coen,Tommy Lee Jones,247
+152,152,Tenet,150,Action,7.3,Christopher Nolan,John David Washington,160
+153,153,The Lost City,112,Action,6.1,Aaron Nee,Sandra Bullock,32
+154,154,Harry Potter and the Order of the Phoenix,138,Action,7.5,David Yates,Daniel Radcliffe,179
+155,155,The Great Gatsby,143,Drama,7.2,Baz Luhrmann,Leonardo DiCaprio,169
+156,156,In Bruges,107,Comedy,7.9,Martin McDonagh,Colin Farrell,141
+157,157,Promising Young Woman,113,Crime,7.5,Emerald Fennell,Carey Mulligan,57
+158,158,"Crazy, Stupid, Love.",118,Comedy,7.4,Glenn Ficarra,Steve Carell,161
+159,159,Little Women,135,Drama,7.8,Greta Gerwig,Saoirse Ronan,68
+160,160,Four Good Days,100,Drama,6.5,Rodrigo García,Mila Kunis,228
+161,161,CODA,111,Comedy,8,Sian Heder,Emilia Jones,38
+162,162,The Fallout,96,Drama,7,Megan Park,Jenna Ortega,82
+163,163,Emily the Criminal,97,Crime,6.7,John Patton Ford,Aubrey Plaza,116
+164,164,Hacksaw Ridge,139,Biography,8.1,Mel Gibson,Andrew Garfield,164
+165,165,The Fast and the Furious,106,Action,6.8,Rob Cohen,Vin Diesel,124
+166,166,Sing 2,110,Animation,7.4,Garth Jennings,Matthew McConaughey,217
+167,167,Her,126,Drama,8,Spike Jonze,Joaquin Phoenix,191
+168,168,The Quiet Girl,94,Drama,7.7,Colm Bairéad,Carrie Crowley,181
+169,169,Green Book,130,Biography,8.2,Peter Farrelly,Viggo Mortensen,157
+170,170,The Dreamers,115,Drama,7.1,Bernardo Bertolucci,Michael Pitt,30
+171,171,The Grand Budapest Hotel,99,Adventure,8.1,Wes Anderson,Ralph Fiennes,233
+172,172,I Am Legend,101,Action,7.2,Francis Lawrence,Will Smith,220
+173,173,The Lobster,119,Drama,7.1,Yorgos Lanthimos,Colin Farrell,86
+174,174,See How They Run,98,Comedy,6.5,Tom George,Kieran Hodgson,151
+175,175,Licorice Pizza,133,Comedy,7.2,Paul Thomas Anderson,Alana Haim,29
+176,176,Friends with Benefits,109,Comedy,6.5,Will Gluck,Mila Kunis,120
+177,177,Luckiest Girl Alive,113,Drama,6.4,Mike Barker,Mila Kunis,150
+178,178,Kingsman: The Golden Circle,141,Action,6.7,Matthew Vaughn,Taron Egerton,107
+179,179,War of the Worlds,116,Action,6.5,Steven Spielberg,Tom Cruise,145
+180,180,Avengers: Infinity War,149,Action,8.4,Anthony Russo,Robert Downey Jr.,4
+181,181,Mean Girls,97,Comedy,7.1,Mark Waters,Lindsay Lohan,125
+182,182,Suicide Squad,123,Action,5.9,David Ayer,Will Smith,212
+183,183,Minions: The Rise of Gru,87,Animation,6.6,Kyle Balda,Steve Carell,209
+184,184,John Wick: Chapter 3 - Parabellum,130,Action,7.4,Chad Stahelski,Keanu Reeves,117
+185,185,Under the Skin,108,Drama,6.3,Jonathan Glazer,Scarlett Johansson,45
+186,186,The Bubble,126,Comedy,4.7,Judd Apatow,Harry Trevaldwyn,84
+187,187,Split,117,Horror,7.3,M. Night Shyamalan,James McAvoy,158
+188,188,Pitch Perfect,112,Comedy,7.1,Jason Moore,Anna Kendrick,100
+189,189,Creed II,130,Action,7.1,Steven Caple Jr.,Michael B. Jordan,33
+190,190,Bodies Bodies Bodies,94,Comedy,6.3,Halina Reijn,Amandla Stenberg,129
+191,191,Mad Max: Fury Road,120,Action,8.1,George Miller,Tom Hardy,1
+192,192,It,135,Horror,7.3,Andy Muschietti,Bill Skarsgård,170
+193,193,Zack Snyder's Justice League,242,Action,8,Zack Snyder,Henry Cavill,131
+194,194,Mission: Impossible - Fallout,147,Action,7.7,Christopher McQuarrie,Tom Cruise,109
+195,195,Harry Potter and the Deathly Hallows: Part 1,146,Adventure,7.7,David Yates,Daniel Radcliffe,171
+196,196,Marcel the Shell with Shoes On,90,Animation,7.8,Dean Fleischer Camp,Jenny Slate,26
+197,197,Call Me by Your Name,132,Drama,7.8,Luca Guadagnino,Timothée Chalamet,90
+198,198,The Magnificent Seven,132,Action,6.8,Antoine Fuqua,Denzel Washington,70
+199,199,Harry Potter and the Half-Blood Prince,153,Action,7.6,David Yates,Daniel Radcliffe,168
+200,200,Love Actually,135,Comedy,7.6,Richard Curtis,Hugh Grant,155
+201,201,Sicario,121,Action,7.6,Denis Villeneuve,Emily Blunt,142
+202,202,The Lord of the Rings: The Two Towers,179,Action,8.8,Peter Jackson,Elijah Wood,16
+203,203,Twilight,122,Drama,5.3,Catherine Hardwicke,Kristen Stewart,148
+204,204,Till,130,Biography,7.2,Chinonye Chukwu,Danielle Deadwyler,225
+205,205,Free Guy,115,Action,7.1,Shawn Levy,Ryan Reynolds,121
+206,206,Apocalypto,139,Action,7.8,Mel Gibson,Gerardo Taracena,101
+207,207,"Three Billboards Outside Ebbing, Missouri",115,Comedy,8.1,Martin McDonagh,Frances McDormand,159
+208,208,The King's Man,131,Action,6.3,Matthew Vaughn,Ralph Fiennes,47
+209,209,Ford v Ferrari,152,Action,8.1,James Mangold,Matt Damon,132
+210,210,Deadpool 2,119,Action,7.7,David Leitch,Ryan Reynolds,180
+211,211,Sick,83,Horror,6.1,John Hyams,Gideon Adlon,242
+212,212,Crimes of the Future,107,Drama,5.9,David Cronenberg,Viggo Mortensen,99
+213,213,1917,119,Action,8.2,Sam Mendes,Dean-Charles Chapman,188
+214,214,Pirates of the Caribbean: The Curse of the Black Pearl,143,Action,8.1,Gore Verbinski,Johnny Depp,5
+215,215,Just Go with It,117,Comedy,6.4,Dennis Dugan,Adam Sandler,83
+216,216,Prey,100,Action,7.1,Dan Trachtenberg,Amber Midthunder,63
+217,217,Crazy Rich Asians,120,Comedy,6.9,Jon M. Chu,Constance Wu,56
+218,218,Passengers,116,Drama,7,Morten Tyldum,Jennifer Lawrence,137
+219,219,Oldboy,120,Action,8.4,Park Chan-wook,Choi Min-sik,176
+220,220,Kingsman: The Secret Service,129,Action,7.7,Matthew Vaughn,Colin Firth,207
+221,221,A Quiet Place,90,Drama,7.5,John Krasinski,Emily Blunt,165
+222,222,Drive,100,Action,7.8,Nicolas Winding Refn,Ryan Gosling,202
+223,223,A Star Is Born,136,Drama,7.6,Bradley Cooper,Lady Gaga,123
+224,224,The School for Good and Evil,147,Action,5.8,Paul Feig,Kit Young,89
+225,225,Transformers,144,Action,7,Michael Bay,Shia LaBeouf,196
+226,226,The Irishman,209,Biography,7.8,Martin Scorsese,Robert De Niro,126
+227,227,365 Days,114,Drama,3.3,Barbara Bialowas,Anna-Maria Sieklucka,244
+228,228,Jojo Rabbit,108,Comedy,7.9,Taika Waititi,Roman Griffin Davis,130
+229,229,Last Seen Alive,95,Action,5.6,Brian Goodman,Gerard Butler,74
+230,230,Dunkirk,106,Action,7.8,Christopher Nolan,Fionn Whitehead,205
+231,231,Guardians of the Galaxy Vol. 2,136,Action,7.6,James Gunn,Chris Pratt,211
+232,232,The Bad Guys,100,Animation,6.8,Pierre Perifel,Sam Rockwell,143
+233,233,Deadpool,108,Action,8,Tim Miller,Ryan Reynolds,3
+234,234,Men,100,Drama,6.1,Alex Garland,Jessie Buckley,146
+235,235,The Invitation,105,Horror,5.3,Jessica M. Thompson,Nathalie Emmanuel,67
+236,236,Rogue One: A Star Wars Story,133,Action,7.8,Gareth Edwards,Felicity Jones,199
+237,237,The Good Nurse,121,Biography,6.8,Tobias Lindholm,Eddie Redmayne,189
+238,238,Fury,134,Action,7.5,David Ayer,Brad Pitt,156
+239,239,The Cabin in the Woods,95,Horror,7,Drew Goddard,Kristen Connolly,138
+240,240,The Little Things,128,Crime,6.3,John Lee Hancock,Denzel Washington,24
+241,241,The Outfit,105,Crime,7.1,Graham Moore,Mark Rylance,149
+242,242,The Dark Knight Rises,164,Action,8.4,Christopher Nolan,Christian Bale,17
+243,243,Orphan: First Kill,99,Crime,5.9,William Brent Bell,Isabelle Fuhrman,115
+244,244,The Handmaiden,145,Drama,8.1,Park Chan-wook,Kim Min-hee,48
+245,245,Fast & Furious,107,Action,6.5,Justin Lin,Vin Diesel,92
+246,246,Armageddon Time,114,Drama,6.5,James Gray,Anne Hathaway,239
+247,247,Wrath of Man,119,Action,7.1,Guy Ritchie,Jason Statham,60
+248,248,The Age of Adaline,112,Drama,7.2,Lee Toland Krieger,Blake Lively,61
+249,249,Now You See Me,115,Crime,7.2,Louis Leterrier,Jesse Eisenberg,204
+250,250,Baby Driver,113,Action,7.6,Edgar Wright,Ansel Elgort,167
